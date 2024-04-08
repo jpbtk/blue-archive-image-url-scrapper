@@ -1,15 +1,17 @@
+# このコードはフォークです
+reykim7854さんのコードを動くように修正、日本語化、立ち絵表情差分などを追加したコードです
 # blue-archive-image-url-scrapper
 This python script scraps Blue Archive character image URLs from [Blue Archive Wiki](https://bluearchive.wiki/wiki) using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
-## Requirements
+## 要件
 - python 3.6+
 - beautifulsoup4
 - requests
-## How to use
-- install the required library from `requirements.txt`
+## 使い方
+- `requirements.txt`から必要なライブラリをインストールしてください
   ```
   pip install -r requirements.txt
   ```
-- run scrapper.py
+- scrapper.pyを実行
   - Windows
     ```
     py scrapper.py
@@ -18,9 +20,9 @@ This python script scraps Blue Archive character image URLs from [Blue Archive W
     ```
     python3 scrapper.py
     ```
-- file will be outputed as `student-images.json`
+- JSONファイルはここに作られます→`student-images.json`
   
-  example:
+  例:
   ```json
   {
     "Airi": {
