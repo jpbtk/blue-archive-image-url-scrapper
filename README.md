@@ -37,9 +37,20 @@ This python script scraps Blue Archive character image URLs from [Blue Archive W
     "99": "https://static.miraheze.org/bluearchivewiki/f/fa/Airi_99.png"
   },
     ...
-    "Yuzu": {
-      "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
-      "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
-    }
+  "Yuzu": {
+    "00": "https://static.miraheze.org/bluearchivewiki/2/29/Yuzu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/a2/Yuzu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/27/Yuzu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/0e/Yuzu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/9e/Yuzu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/0a/Yuzu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/c/cb/Yuzu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/de/Yuzu_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/02/Yuzu_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/a/a9/Yuzu_99.png"
+  },
+  "Yuzu (Maid)": {
+    "00": "//static.miraheze.org/bluearchivewiki/c/c8/Yuzu_%28Maid%29_00.png"
+  }
   }
   ```
