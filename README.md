@@ -1,7 +1,7 @@
 # このコードはフォークです
 動かなかった[reykim7854さんのコード](https://github.com/reykim7854/blue-archive-image-url-scrapper)を動くように修正、日本語化、立ち絵表情差分などを追加したコードです
 # タスクリスト
-- [ ] 別衣装の立ち絵表情差分
+- [x] 別衣装の立ち絵表情差分
 - [ ] イロハ
 # すぐ使いたいなら
 [student-images.json](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/08更新)
