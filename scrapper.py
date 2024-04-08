@@ -58,60 +58,71 @@ def get_character_image(http, name):
             http, '/File:' + name.replace(' ', '_') + '_00.png')
         image_avatar = result_avatar.find(
             'div', class_='fullImageLink').find('a')
-        if (('(' not in name)):
-            name = name.replace(" diorama", "")
-            test = soupify(
+        name = name.replace(" diorama", "")
+        test = soupify(
                 http, '/' + name + '/gallery')
-            teest = test.find_all(
+        teest = test.find_all(
                 'div', class_='thumb')
-            i = 0
-            while ('_99.png' not in str(teest[i])):
-                target = 'src='
-                idx = str(teest[i]).find(target)
-                r = str(teest[i])[idx + 1:]
-                target2 = '.png/'
-                idx2 = r.find(target2)
-                r2 = r[:idx2]
-                result = r2.replace('rc="', '')
-                result = result.replace('"', '')
-                result = result.replace("/thumb", "")
-                result = "https:" + result + '.png'
-                target3 = ("/" + name)
+        i = 0
+        while ('_99.png' not in str(teest[i])):
+            target = 'src='
+            idx = str(teest[i]).find(target)
+            r = str(teest[i])[idx + 1:]
+            target2 = '.png/'
+            idx2 = r.find(target2)
+            r2 = r[:idx2]
+            result = r2.replace('rc="', '')
+            result = result.replace('"', '')
+            result = result.replace("/thumb", "")
+            result = "https:" + result + '.png'
+            if ('(' in name):
+                target3 = ("%29")
                 idx3 = result.find(target3)
                 r3 = result[idx3 + 1:]
-                r3 = r3.replace(name, "")
-                r3 = r3.replace(".png", "")
-                r3 = r3.replace("_", "")
-                new_data = {
-                    r3: result
-                }
-                chrjson.update(new_data)
-                i += 1
+                r3 = r3.replace("diorama", "")
+                r3 = r3.replace("29", "")
             else:
-                target = 'src='
-                idx = str(teest[i]).find(target)
-                r = str(teest[i])[idx + 1:]
-                target2 = '.png/'
-                idx2 = r.find(target2)
-                r2 = r[:idx2]
-                result = r2.replace('rc="', '')
-                result = result.replace('"', '')
-                result = result.replace("/thumb", "")
-                result = "https:" + result + '.png'
                 target3 = ("/" + name)
                 idx3 = result.find(target3)
                 r3 = result[idx3 + 1:]
                 r3 = r3.replace(name, "")
-                r3 = r3.replace(".png", "")
-                r3 = r3.replace("_", "")
-                new_data = {
-                    r3: result
-                }
-                chrjson.update(new_data)
-                i += 1
-            return chrjson
+            r3 = r3.replace(".png", "")
+            r3 = r3.replace("_", "")
+            new_data = {
+                r3: result
+            }
+            chrjson.update(new_data)
+            i += 1
         else:
-            return {"00": 'https:' + image_avatar['href']}
+            target = 'src='
+            idx = str(teest[i]).find(target)
+            r = str(teest[i])[idx + 1:]
+            target2 = '.png/'
+            idx2 = r.find(target2)
+            r2 = r[:idx2]
+            result = r2.replace('rc="', '')
+            result = result.replace('"', '')
+            result = result.replace("/thumb", "")
+            result = "https:" + result + '.png'
+            if ('(' in name):
+                target3 = ("%29")
+                idx3 = result.find(target3)
+                r3 = result[idx3 + 1:]
+                r3 = r3.replace("diorama", "")
+                r3 = r3.replace("29", "")
+            else:
+                target3 = ("/" + name)
+                idx3 = result.find(target3)
+                r3 = result[idx3 + 1:]
+                r3 = r3.replace(name, "")
+            r3 = r3.replace(".png", "")
+            r3 = r3.replace("_", "")
+            new_data = {
+                r3: result
+            }
+            chrjson.update(new_data)
+            i += 1
+        return chrjson
     except requests.exceptions.Timeout:
         result_avatar = soupify(
             http, '/File:' + name.replace(' ', '_') + '_00.png')
