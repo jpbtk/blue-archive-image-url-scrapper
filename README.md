@@ -4,7 +4,7 @@ reykim7854さんのコードを動くように修正、日本語化、立ち絵�
 - [ ] 別衣装の立ち絵表情差分
 - [ ] イロハ
 # すぐ使いたいなら
-student-images.jsonをダウンロードして使ってね(2024/04/08更新)
+[student-images.json](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/08更新)
 # blue-archive-image-url-scrapper
 このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵のURLを取得します。
 ## 要件
@@ -12,7 +12,7 @@ student-images.jsonをダウンロードして使ってね(2024/04/08更新)
 - beautifulsoup4
 - requests
 ## 使い方
-requirements.txt、scrapper.pyをダウンロードしてください
+[requirements.txt](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/requirements.txt)、[scrapper.py](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/scrapper.py)をダウンロードしてください
 - `requirements.txt`から必要なライブラリをインストールしてください
   ```
   pip install -r requirements.txt
