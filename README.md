@@ -1,7 +1,7 @@
 # このコードはフォークです
 reykim7854さんのコードを動くように修正、日本語化、立ち絵表情差分などを追加したコードです
 # タスクリスト
-- []別衣装の立ち絵表情差分
+- [ ] 別衣装の立ち絵表情差分
 # blue-archive-image-url-scrapper
 This python script scraps Blue Archive character image URLs from [Blue Archive Wiki](https://bluearchive.wiki/wiki) using [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/).
 ## 要件
