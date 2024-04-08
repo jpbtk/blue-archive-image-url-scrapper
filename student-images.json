@@ -1,562 +1,1897 @@
 {
   "Airi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Airi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/4b/Airi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/9e/Airi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/f/ff/Airi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b3/Airi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/40/Airi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/0/00/Airi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/84/Airi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/b/ba/Airi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/52/Airi_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/fa/Airi_99.png"
   },
   "Akane": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/aa/Akane.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Akane_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a6/Akane_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/4/4a/Akane_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/b/b8/Akane_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/cf/Akane_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/9b/Akane_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8f/Akane_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/bf/Akane_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/11/Akane_99.png"
   },
-  "Akane (Bunny)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/99/Akane_%28Bunny_Girl%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d3/Akane_%28Bunny_Girl%29_full.png"
+  "Akane (Bunny Girl)": {
+    "00": "//static.miraheze.org/bluearchivewiki/1/16/Akane_%28Bunny_Girl%29_00.png"
   },
   "Akari": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7d/Akari.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b0/Akari_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/ab/Akari_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/8/83/Akari_01.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/f/f9/Akari_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/d3/Akari_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/8e/Akari_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/ab/Akari_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/2/23/Akari_99.png"
+  },
+  "Akari (New Year) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/8/84/Akari_%28New_Year%29_diorama_00.png"
   },
   "Ako": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/72/Ako.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/6/6a/Ako_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/9f/Ako_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/02/Ako_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c6/Ako_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/8d/Ako_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/0/04/Ako_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/69/Ako_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e2/Ako_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/2/2b/Ako_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/5/50/Ako_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/3/30/Ako_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/b/ba/Ako_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/6/69/Ako_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/6/63/Ako_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/0/02/Ako_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/1/19/Ako_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/d/d2/Ako_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/d/d7/Ako_16.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/6/64/Ako_99.png"
   },
-  "Aris": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0f/Arisu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/26/Arisu_full.png"
+  "Ako (Dress)": {
+    "00": "//static.miraheze.org/bluearchivewiki/4/4f/Ako_%28Dress%29_00.png"
   },
-  "Aris (Maid)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b4/Arisu_%28Maid%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8d/Arisu_%28Maid%29_full.png"
+  "Arisu": {
+    "00": "https://static.miraheze.org/bluearchivewiki/c/cf/Arisu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/1/17/Arisu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/69/Arisu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/62/Arisu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/dd/Arisu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/84/Arisu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/a6/Arisu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/0/0a/Arisu_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/f8/Arisu_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/1c/Arisu_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/a4/Arisu_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/3/3f/Arisu_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/3/37/Arisu_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/a/a1/Arisu_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/5/55/Arisu_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/e/e8/Arisu_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/8/81/Arisu_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/e/ed/Arisu_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/5/58/Arisu_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/a/ae/Arisu_19.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/84/Arisu_99.png"
+  },
+  "Arisu (Maid)": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/3d/Arisu_%28Maid%29_00.png"
   },
   "Aru": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/db/Aru.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b0/Aru_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/8e/Aru_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/8/89/Aru_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/76/Aru_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/cf/Aru_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/45/Aru_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/e/e3/Aru_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/30/Aru_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/c/c2/Aru_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/46/Aru_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/7/76/Aru_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/35/Aru_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/5/55/Aru_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/2/26/Aru_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/d/d7/Aru_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/4/49/Aru_14.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/9/97/Aru_99.png"
+  },
+  "Aru (Dress)": {
+    "00": "//static.miraheze.org/bluearchivewiki/a/a3/Aru_%28Dress%29_00.png"
   },
   "Aru (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/60/Aru_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/5/59/Aru_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/f/f8/Aru_%28New_Year%29_00.png"
   },
   "Asuna": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9f/Asuna.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c7/Asuna_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/43/Asuna_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/6e/Asuna_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/70/Asuna_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/11/Asuna_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/37/Asuna_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/7b/Asuna_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/0/0e/Asuna_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/16/Asuna_99.png"
   },
-  "Asuna (Bunny)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a4/Asuna_%28Bunny_Girl%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Asuna_%28Bunny_Girl%29_full.png"
+  "Asuna (Bunny Girl)": {
+    "00": "//static.miraheze.org/bluearchivewiki/6/66/Asuna_%28Bunny_Girl%29_00.png"
   },
   "Atsuko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c7/Atsuko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fc/Atsuko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/c/cb/Atsuko_00.png",
+    "S201": "https://static.miraheze.org/bluearchivewiki/8/87/Atsuko_S2_01.png",
+    "S202": "https://static.miraheze.org/bluearchivewiki/b/b3/Atsuko_S2_02.png",
+    "S203": "https://static.miraheze.org/bluearchivewiki/0/0b/Atsuko_S2_03.png",
+    "S204": "https://static.miraheze.org/bluearchivewiki/5/5d/Atsuko_S2_04.png",
+    "S205": "https://static.miraheze.org/bluearchivewiki/5/5c/Atsuko_S2_05.png",
+    "S206": "https://static.miraheze.org/bluearchivewiki/2/20/Atsuko_S2_06.png",
+    "S207": "https://static.miraheze.org/bluearchivewiki/2/2d/Atsuko_S2_07.png",
+    "S299": "https://static.miraheze.org/bluearchivewiki/d/d7/Atsuko_S2_99.png"
   },
   "Ayane": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Ayane.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3f/Ayane_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/f9/Ayane_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/53/Ayane_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/a8/Ayane_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/78/Ayane_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/6e/Ayane_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/98/Ayane_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/79/Ayane_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/8/80/Ayane_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/f/f8/Ayane_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/6/6a/Ayane_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/e/ee/Ayane_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/8/8d/Ayane_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/b/b3/Ayane_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/8/8c/Ayane_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/e/ef/Ayane_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e2/Ayane_99.png"
   },
-  "Ayane (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f6/Ayane_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7f/Ayane_%28Swimsuit%29_full.png"
+  "Ayane (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/e/ea/Ayane_%28Swimsuit%29_diorama_00.png"
   },
   "Azusa": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/86/Azusa.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/06/Azusa_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/0/0b/Azusa_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/01/Azusa_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/72/Azusa_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/06/Azusa_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/20/Azusa_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/2/26/Azusa_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/0/05/Azusa_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/f/f3/Azusa_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/00/Azusa_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/bb/Azusa_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/70/Azusa_99.png"
   },
-  "Azusa (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a4/Azusa_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2e/Azusa_%28Swimsuit%29_full.png"
+  "Azusa (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/5/5a/Azusa_%28Swimsuit%29_diorama_00.png"
   },
   "Cherino": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7c/Cherino.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/10/Cherino_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/5/5c/Cherino_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/e/ed/Cherino_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/71/Cherino_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/3e/Cherino_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/59/Cherino_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/95/Cherino_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/48/Cherino_99.png"
   },
-  "Cherino (Hot Spring)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/95/Cherino_%28Hot_Spring%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/46/Cherino_%28Hot_Spring%29_full.png"
+  "Cherino (Hot Spring) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/8/81/Cherino_%28Hot_Spring%29_diorama_00.png"
   },
   "Chihiro": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Chihiro.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e4/Chihiro_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/6a/Chihiro_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/c/c2/Chihiro_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/5a/Chihiro_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/b/b9/Chihiro_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/8/80/Chihiro_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/1b/Chihiro_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/7c/Chihiro_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/72/Chihiro_99.png"
   },
   "Chinatsu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b6/Chinatsu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/6/60/Chinatsu_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/c/c9/Chinatsu_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/5f/Chinatsu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/7f/Chinatsu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/58/Chinatsu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/05/Chinatsu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/eb/Chinatsu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a3/Chinatsu_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/2/22/Chinatsu_99.png"
   },
-  "Chinatsu (Hot Spring)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b1/Chinatsu_%28Hot_Spring%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/19/Chinatsu_%28Hot_Spring%29_full.png"
+  "Chinatsu (Hot Spring) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/f9/Chinatsu_%28Hot_Spring%29_diorama_00.png"
   },
   "Chise": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Chise.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/77/Chise_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/c/cb/Chise_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/c/c4/Chise_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/7f/Chise_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/11/Chise_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/e9/Chise_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/a0/Chise_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/4c/Chise_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/92/Chise_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/7/70/Chise_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/4a/Chise_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/ca/Chise_99.png"
   },
-  "Chise (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1e/Chise_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e7/Chise_%28Swimsuit%29_full.png"
+  "Chise (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/4/4d/Chise_%28Swimsuit%29_diorama_00.png"
   },
   "Eimi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/ed/Eimi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ac/Eimi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/1/17/Eimi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/c/c4/Eimi_01.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/df/Eimi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/20/Eimi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/d/d5/Eimi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/d/dd/Eimi_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/78/Eimi_99.png"
+  },
+  "Eimi (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/fc/Eimi_%28Swimsuit%29_diorama_00.png"
   },
   "Fubuki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/cd/Fubuki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/49/Fubuki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e9/Fubuki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/f/fc/Fubuki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/bb/Fubuki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/9/94/Fubuki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/da/Fubuki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/6b/Fubuki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/84/Fubuki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/dc/Fubuki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/fc/Fubuki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/e/e6/Fubuki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/e/e1/Fubuki_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/3c/Fubuki_99.png"
   },
   "Fuuka": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1f/Fuuka.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/23/Fuuka_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/8a/Fuuka_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/1/17/Fuuka_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/24/Fuuka_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/9/9f/Fuuka_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/3c/Fuuka_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/9a/Fuuka_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/46/Fuuka_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/2/26/Fuuka_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/7/74/Fuuka_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1d/Fuuka_99.png"
   },
-  "Fuuka (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/13/Fuuka_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c1/Fuuka_%28New_Year%29_full.png"
+  "Fuuka (New Year) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/0/03/Fuuka_%28New_Year%29_diorama_00.png"
   },
   "Hanae": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/72/Hanae.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f0/Hanae_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/2/26/Hanae_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/ab/Hanae_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/e/e0/Hanae_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/82/Hanae_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b4/Hanae_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/15/Hanae_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/34/Hanae_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/6/69/Hanae_99.png"
   },
-  "Hanae (Christmas)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/1a/Hanae_%28Christmas%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/45/Hanae_%28Christmas%29_full.png"
+  "Hanae (Christmas) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/2/2e/Hanae_%28Christmas%29_diorama_00.png"
   },
   "Hanako": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9c/Hanako.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3d/Hanako_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/6a/Hanako_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/92/Hanako_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/73/Hanako_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/ac/Hanako_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/ea/Hanako_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f7/Hanako_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8d/Hanako_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/ca/Hanako_99.png"
+  },
+  "Hanako (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/b/bd/Hanako_%28Swimsuit%29_00.png"
   },
   "Hare": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/47/Hare.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f1/Hare_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4a/Hare_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/3/39/Hare_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6e/Hare_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/9/9a/Hare_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/56/Hare_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/00/Hare_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/7a/Hare_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/3c/Hare_99.png"
+  },
+  "Hare (Camping)": {
+    "00": "//static.miraheze.org/bluearchivewiki/d/d5/Hare_%28Camping%29_00.png"
   },
   "Haruka": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b1/Haruka.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/92/Haruka_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/b/b7/Haruka_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/58/Haruka_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/9e/Haruka_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/82/Haruka_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/ec/Haruka_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/76/Haruka_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/42/Haruka_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a9/Haruka_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/6/61/Haruka_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/e/e1/Haruka_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/30/Haruka_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/3/33/Haruka_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/1/18/Haruka_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/8/8a/Haruka_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e9/Haruka_99.png"
   },
   "Haruka (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d9/Haruka_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Haruka_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/6/6d/Haruka_%28New_Year%29_00.png"
   },
   "Haruna": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a6/Haruna.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/21/Haruna_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/7/79/Haruna_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b0/Haruna_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/16/Haruna_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/6e/Haruna_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/c/cf/Haruna_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/b/bd/Haruna_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/b2/Haruna_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/2/2d/Haruna_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/eb/Haruna_99.png"
   },
-  "Haruna (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b3/Haruna_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9e/Haruna_%28New_Year%29_full.png"
+  "Haruna (New Year) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/7/76/Haruna_%28New_Year%29_diorama_00.png"
+  },
+  "Haruna (Sportswear) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/0/0a/Haruna_%28Sportswear%29_diorama_00.png"
   },
   "Hasumi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/84/Hasumi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1f/Hasumi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/9b/Hasumi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/68/Hasumi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/4/45/Hasumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/e0/Hasumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/a/ad/Hasumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/d/d6/Hasumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/6d/Hasumi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/58/Hasumi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/0d/Hasumi_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/45/Hasumi_99.png"
   },
-  "Hasumi (Track)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/80/Hasumi_%28Sportswear%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/29/Hasumi_%28Sportswear%29_full.png"
+  "Hasumi (Sportswear)": {
+    "00": "//static.miraheze.org/bluearchivewiki/9/91/Hasumi_%28Sportswear%29_00.png"
   },
   "Hatsune Miku": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/93/Hatsune_Miku.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/49/Hatsune_Miku_full.png"
+    "https://static.miraheze.org/bluearchivewiki/e/ea/HatsuneMiku00": "https://static.miraheze.org/bluearchivewiki/e/ea/Hatsune_Miku_00.png",
+    "https://static.miraheze.org/bluearchivewiki/f/f0/HatsuneMiku01": "https://static.miraheze.org/bluearchivewiki/f/f0/Hatsune_Miku_01.png",
+    "https://static.miraheze.org/bluearchivewiki/8/88/HatsuneMiku02": "https://static.miraheze.org/bluearchivewiki/8/88/Hatsune_Miku_02.png",
+    "https://static.miraheze.org/bluearchivewiki/c/c0/HatsuneMiku03": "https://static.miraheze.org/bluearchivewiki/c/c0/Hatsune_Miku_03.png",
+    "https://static.miraheze.org/bluearchivewiki/3/3c/HatsuneMiku04": "https://static.miraheze.org/bluearchivewiki/3/3c/Hatsune_Miku_04.png",
+    "https://static.miraheze.org/bluearchivewiki/8/8d/HatsuneMiku05": "https://static.miraheze.org/bluearchivewiki/8/8d/Hatsune_Miku_05.png",
+    "https://static.miraheze.org/bluearchivewiki/0/08/HatsuneMiku06": "https://static.miraheze.org/bluearchivewiki/0/08/Hatsune_Miku_06.png",
+    "https://static.miraheze.org/bluearchivewiki/3/3e/HatsuneMiku07": "https://static.miraheze.org/bluearchivewiki/3/3e/Hatsune_Miku_07.png",
+    "https://static.miraheze.org/bluearchivewiki/0/03/HatsuneMiku08": "https://static.miraheze.org/bluearchivewiki/0/03/Hatsune_Miku_08.png",
+    "https://static.miraheze.org/bluearchivewiki/e/e2/HatsuneMiku09": "https://static.miraheze.org/bluearchivewiki/e/e2/Hatsune_Miku_09.png",
+    "https://static.miraheze.org/bluearchivewiki/7/71/HatsuneMiku10": "https://static.miraheze.org/bluearchivewiki/7/71/Hatsune_Miku_10.png",
+    "https://static.miraheze.org/bluearchivewiki/4/46/HatsuneMiku11": "https://static.miraheze.org/bluearchivewiki/4/46/Hatsune_Miku_11.png",
+    "https://static.miraheze.org/bluearchivewiki/0/0c/HatsuneMiku12": "https://static.miraheze.org/bluearchivewiki/0/0c/Hatsune_Miku_12.png",
+    "https://static.miraheze.org/bluearchivewiki/b/ba/HatsuneMiku13": "https://static.miraheze.org/bluearchivewiki/b/ba/Hatsune_Miku_13.png",
+    "https://static.miraheze.org/bluearchivewiki/d/d3/HatsuneMiku14": "https://static.miraheze.org/bluearchivewiki/d/d3/Hatsune_Miku_14.png",
+    "https://static.miraheze.org/bluearchivewiki/5/50/HatsuneMiku99": "https://static.miraheze.org/bluearchivewiki/5/50/Hatsune_Miku_99.png"
   },
   "Hibiki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bc/Hibiki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e2/Hibiki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/0/07/Hibiki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/e/e6/Hibiki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/0/07/Hibiki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/68/Hibiki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/9a/Hibiki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/13/Hibiki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f7/Hibiki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a8/Hibiki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/7/73/Hibiki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/0/06/Hibiki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/9/97/Hibiki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/5/57/Hibiki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/e/e2/Hibiki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/2/2b/Hibiki_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/38/Hibiki_99.png"
   },
-  "Hibiki (Cheer Squad)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bf/Hibiki_%28Cheerleader%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/11/Hibiki_%28Cheerleader%29_full.png"
+  "Hibiki (Cheerleader) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/3f/Hibiki_%28Cheerleader%29_diorama_00.png"
   },
   "Hifumi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3b/Hifumi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b4/Hifumi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/ea/Hifumi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/98/Hifumi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b9/Hifumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/40/Hifumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/4b/Hifumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/98/Hifumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8a/Hifumi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/6/6b/Hifumi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/d/d8/Hifumi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/d/d5/Hifumi_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/f8/Hifumi_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/0/00/Hifumi_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/e/ea/Hifumi_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d5/Hifumi_99.png"
   },
-  "Hifumi (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/32/Hifumi_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/99/Hifumi_%28Swimsuit%29_full.png"
+  "Hifumi (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/9/93/Hifumi_%28Swimsuit%29_diorama_00.png"
   },
   "Himari": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/5/5a/Himari.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/08/Himari_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/6d/Himari_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/69/Himari_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/68/Himari_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/80/Himari_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/fe/Himari_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/98/Himari_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/c/c0/Himari_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/f/f0/Himari_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/ed/Himari_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/8/86/Himari_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/6/6b/Himari_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/7/74/Himari_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/4/44/Himari_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/85/Himari_99.png"
   },
   "Hina": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Hina.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/27/Hina_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a7/Hina_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/d1/Hina_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6b/Hina_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/45/Hina_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/32/Hina_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/0e/Hina_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/5e/Hina_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a4/Hina_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e9/Hina_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/4c/Hina_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/80/Hina_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/8/8e/Hina_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/0/01/Hina_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/8/83/Hina_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/2/2d/Hina_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/8/87/Hina_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/d/d5/Hina_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/e/ee/Hina_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/2/28/Hina_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/5/5a/Hina_19.png",
+    "20": "https://static.miraheze.org/bluearchivewiki/1/1c/Hina_20.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/9/9f/Hina_99.png"
   },
-  "Hina (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/44/Hina_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a7/Hina_%28Swimsuit%29_full.png"
+  "Hina (Dress)": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/34/Hina_%28Dress%29_00.png"
+  },
+  "Hina (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/b/bc/Hina_%28Swimsuit%29_diorama_00.png"
   },
   "Hinata": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/97/Hinata.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d7/Hinata_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/1/19/Hinata_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/1/12/Hinata_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c1/Hinata_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/8b/Hinata_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/72/Hinata_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/4/49/Hinata_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/3c/Hinata_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1d/Hinata_99.png"
+  },
+  "Hinata (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/6/6f/Hinata_%28Swimsuit%29_00.png"
   },
   "Hiyori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/76/Hiyori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Hiyori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/3/39/Hiyori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/b6/Hiyori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/5d/Hiyori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/48/Hiyori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/a/a9/Hiyori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/ff/Hiyori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f6/Hiyori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/c/cd/Hiyori_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/2/2f/Hiyori_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/41/Hiyori_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/35/Hiyori_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/4/4c/Hiyori_11.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/3b/Hiyori_99.png"
   },
   "Hoshino": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a9/Hoshino.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Hoshino_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/7/71/Hoshino_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/9f/Hoshino_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/68/Hoshino_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/aa/Hoshino_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/64/Hoshino_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/78/Hoshino_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/ee/Hoshino_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/e/e0/Hoshino_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/2/2c/Hoshino_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/2/26/Hoshino_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/9/99/Hoshino_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/a/ab/Hoshino_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/0/09/Hoshino_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/8/85/Hoshino_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/1/14/Hoshino_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/e/e2/Hoshino_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/2/21/Hoshino_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/2/23/Hoshino_17.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/6/6c/Hoshino_99.png"
   },
-  "Hoshino (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Hoshino_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/ce/Hoshino_%28Swimsuit%29_full.png"
+  "Hoshino (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/1/10/Hoshino_%28Swimsuit%29_diorama_00.png"
+  },
+  "Ibuki": {
+    "00": "https://static.miraheze.org/bluearchivewiki/9/90/Ibuki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/f/f6/Ibuki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/0/0b/Ibuki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/46/Ibuki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/4a/Ibuki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/6f/Ibuki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/55/Ibuki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/72/Ibuki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/f2/Ibuki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/6/61/Ibuki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/37/Ibuki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/5/5f/Ibuki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/2/28/Ibuki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/c/c5/Ibuki_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/3/3c/Ibuki_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/8/84/Ibuki_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/e/ee/Ibuki_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/9/99/Ibuki_17.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/0/03/Ibuki_99.png"
+  },
+  "Ichika": {
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e1/Ichika_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/8/80/Ichika_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/5e/Ichika_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c7/Ichika_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/db/Ichika_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/9b/Ichika_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/45/Ichika_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/6/63/Ichika_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/a/a2/Ichika_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/5/53/Ichika_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/5/53/Ichika_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/8/87/Ichika_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/a/a4/Ichika_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/6/63/Ichika_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/5/53/Ichika_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/b/bf/Ichika_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/a/a1/Ichika_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/d/d2/Ichika_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/3/39/Ichika_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/6/62/Ichika_19.png",
+    "20": "https://static.miraheze.org/bluearchivewiki/6/6f/Ichika_20.png",
+    "21": "https://static.miraheze.org/bluearchivewiki/9/93/Ichika_21.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e8/Ichika_99.png"
   },
   "Iori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/2/26/Iori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d1/Iori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/b/bd/Iori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/b0/Iori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/22/Iori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/3/34/Iori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b6/Iori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f2/Iori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/ee/Iori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/b5/Iori_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e1/Iori_99.png"
   },
-  "Iori (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/5/53/Iori_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a6/Iori_%28Swimsuit%29_full.png"
+  "Iori (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/3f/Iori_%28Swimsuit%29_diorama_00.png"
   },
-  "Iroha": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bf/Iroha.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7e/Iroha_full.png"
-  },
+  "Iroha": "",
   "Izumi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/10/Izumi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Izumi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/7/7c/Izumi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/b8/Izumi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a5/Izumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/71/Izumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b1/Izumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/ad/Izumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/9b/Izumi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/5c/Izumi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/c/c0/Izumi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/c/c4/Izumi_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/dc/Izumi_99.png"
   },
-  "Izumi (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b0/Izumi_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1e/Izumi_%28Swimsuit%29_full.png"
+  "Izumi (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/f8/Izumi_%28Swimsuit%29_diorama_00.png"
   },
   "Izuna": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/5/54/Izuna.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e9/Izuna_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/89/Izuna_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/e/e0/Izuna_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/1a/Izuna_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/13/Izuna_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/48/Izuna_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/3/30/Izuna_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/79/Izuna_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/1/1f/Izuna_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e1/Izuna_99.png"
   },
-  "Izuna (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Izuna_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/92/Izuna_%28Swimsuit%29_full.png"
+  "Izuna (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/4/4a/Izuna_%28Swimsuit%29_diorama_00.png"
   },
   "Junko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3c/Junko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c6/Junko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/d/d1/Junko_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/af/Junko_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/12/Junko_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/1c/Junko_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/55/Junko_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/fe/Junko_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/2/25/Junko_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/3/3d/Junko_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/7/76/Junko_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/d/d1/Junko_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/7/7a/Junko_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/a/a4/Junko_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/8/8a/Junko_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/3/31/Junko_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/9/9c/Junko_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/c/c5/Junko_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/16/Junko_99.png"
   },
   "Junko (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Junko_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/93/Junko_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/4/4c/Junko_%28New_Year%29_00.png"
   },
   "Juri": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Juri.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5f/Juri_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/5/5e/Juri_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/7/7a/Juri_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/72/Juri_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/d9/Juri_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/f9/Juri_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/bd/Juri_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/65/Juri_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/f/fe/Juri_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/92/Juri_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/e/eb/Juri_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/c/c6/Juri_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/e/e7/Juri_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/7/7a/Juri_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/89/Juri_99.png"
   },
   "Kaede": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f0/Kaede.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/24/Kaede_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/99/Kaede_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/d8/Kaede_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/56/Kaede_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/7d/Kaede_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/7a/Kaede_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/a4/Kaede_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/a6/Kaede_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/8/89/Kaede_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e3/Kaede_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/0/06/Kaede_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/80/Kaede_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/d/dc/Kaede_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/1/18/Kaede_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/b/b2/Kaede_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/1/19/Kaede_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/3/3f/Kaede_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e6/Kaede_99.png"
   },
   "Kaho": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/63/Kaho.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1c/Kaho_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/b/b8/Kaho_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/e/e1/Kaho_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/11/Kaho_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/f/f2/Kaho_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/c6/Kaho_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f5/Kaho_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f8/Kaho_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/5e/Kaho_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e1/Kaho_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/8/86/Kaho_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/4/43/Kaho_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/b/bb/Kaho_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/c/ce/Kaho_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/1/11/Kaho_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/9/93/Kaho_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/6/6e/Kaho_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/c/c4/Kaho_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/2/26/Kaho_17.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/9/94/Kaho_99.png"
   },
   "Kanna": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/47/Kanna.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/6/69/Kanna_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4b/Kanna_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/6b/Kanna_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a5/Kanna_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/e6/Kanna_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/37/Kanna_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/50/Kanna_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/0/06/Kanna_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/9f/Kanna_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/fa/Kanna_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/12/Kanna_99.png"
   },
   "Karin": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/5/50/Karin.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a4/Karin_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/fa/Karin_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/8/8c/Karin_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/95/Karin_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/b/b1/Karin_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b0/Karin_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/00/Karin_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e5/Karin_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1a/Karin_99.png"
   },
-  "Karin (Bunny)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/bd/Karin_%28Bunny_Girl%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c8/Karin_%28Bunny_Girl%29_full.png"
+  "Karin (Bunny Girl)": {
+    "00": "//static.miraheze.org/bluearchivewiki/7/7f/Karin_%28Bunny_Girl%29_00.png"
+  },
+  "Kasumi": {
+    "00": "https://static.miraheze.org/bluearchivewiki/8/8a/Kasumi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/f/f4/Kasumi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6d/Kasumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/9/93/Kasumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/90/Kasumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/04/Kasumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/0/0e/Kasumi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/f/f4/Kasumi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/d/d6/Kasumi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/7/74/Kasumi_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/8f/Kasumi_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/a/a9/Kasumi_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/8/89/Kasumi_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/9/98/Kasumi_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/f/ff/Kasumi_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/f/f8/Kasumi_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/b/b7/Kasumi_99.png"
   },
   "Kayoko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a5/Kayoko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/78/Kayoko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e5/Kayoko_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/2/25/Kayoko_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/8d/Kayoko_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/26/Kayoko_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/55/Kayoko_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b9/Kayoko_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/0/0d/Kayoko_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/4/44/Kayoko_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/2/2c/Kayoko_99.png"
+  },
+  "Kayoko (Dress)": {
+    "00": "//static.miraheze.org/bluearchivewiki/c/cf/Kayoko_%28Dress%29_00.png"
   },
   "Kayoko (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0d/Kayoko_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8c/Kayoko_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/8/8a/Kayoko_%28New_Year%29_00.png"
   },
   "Kazusa": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/b/b3/Kazusa.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ac/Kazusa_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/fe/Kazusa_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/0c/Kazusa_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/0/08/Kazusa_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/7e/Kazusa_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/f3/Kazusa_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/3/35/Kazusa_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/d/d4/Kazusa_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/9b/Kazusa_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/b/b7/Kazusa_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/41/Kazusa_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/6/64/Kazusa_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/0/0c/Kazusa_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/5/51/Kazusa_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/f/f3/Kazusa_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d0/Kazusa_99.png"
+  },
+  "Kikyou": {
+    "00": "https://static.miraheze.org/bluearchivewiki/6/6c/Kikyou_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/7/71/Kikyou_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/9b/Kikyou_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/d4/Kikyou_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/ef/Kikyou_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/1a/Kikyou_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/3c/Kikyou_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/c/ca/Kikyou_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/fe/Kikyou_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/5/5a/Kikyou_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/7/77/Kikyou_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/5/5d/Kikyou_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/2/22/Kikyou_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/4/48/Kikyou_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/4/47/Kikyou_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/f/fe/Kikyou_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/4/47/Kikyou_16.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d5/Kikyou_99.png"
   },
   "Kirino": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/85/Kirino.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/08/Kirino_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/5/51/Kirino_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/96/Kirino_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/29/Kirino_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c7/Kirino_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/db/Kirino_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/3/32/Kirino_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/3e/Kirino_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/3/3c/Kirino_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e9/Kirino_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/c/c9/Kirino_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/f4/Kirino_99.png"
   },
   "Koharu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c3/Koharu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/bd/Koharu_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e5/Koharu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/02/Koharu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c0/Koharu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/f/f3/Koharu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/bf/Koharu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/c/cd/Koharu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/c/ce/Koharu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/78/Koharu_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/4b/Koharu_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/8/8b/Koharu_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/e/eb/Koharu_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/b/b2/Koharu_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/d/d3/Koharu_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/a/ae/Koharu_99.png"
+  },
+  "Koharu (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/8/86/Koharu_%28Swimsuit%29_00.png"
   },
   "Kokona": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Kokona.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/43/Kokona_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/99/Kokona_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/f/fe/Kokona_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/95/Kokona_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/7d/Kokona_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/21/Kokona_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/05/Kokona_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/53/Kokona_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/8/8e/Kokona_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/f/fb/Kokona_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/2/27/Kokona_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/30/Kokona_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/e/e6/Kokona_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/6/6a/Kokona_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/fd/Kokona_99.png"
   },
   "Kotama": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/94/Kotama.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7a/Kotama_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/91/Kotama_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/01/Kotama_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/99/Kotama_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/25/Kotama_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/8/88/Kotama_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/59/Kotama_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/5d/Kotama_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/b/b3/Kotama_99.png"
+  },
+  "Kotama (Camping)": {
+    "00": "//static.miraheze.org/bluearchivewiki/0/05/Kotama_%28Camping%29_00.png"
   },
   "Kotori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ab/Kotori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/6/61/Kotori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a6/Kotori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/2/2e/Kotori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/84/Kotori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/d7/Kotori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/e2/Kotori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/19/Kotori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/35/Kotori_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/f7/Kotori_99.png"
+  },
+  "Kotori (Cheerleader) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/2/25/Kotori_%28Cheerleader%29_diorama_00.png"
   },
   "Koyuki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/af/Koyuki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/ee/Koyuki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a0/Koyuki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/a2/Koyuki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/ca/Koyuki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/f/f0/Koyuki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/9f/Koyuki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/d/d0/Koyuki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/b/ba/Koyuki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/56/Koyuki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/b/bf/Koyuki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/d/df/Koyuki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/f4/Koyuki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/2/2a/Koyuki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/3/39/Koyuki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/c/c9/Koyuki_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/1/10/Koyuki_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/9/91/Koyuki_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e7/Koyuki_99.png"
   },
   "Maki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/2/21/Maki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2e/Maki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/f8/Maki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/57/Maki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/4/49/Maki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/50/Maki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b5/Maki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/d/d3/Maki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/14/Maki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/b4/Maki_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/c9/Maki_99.png"
+  },
+  "Makoto": {
+    "00": "https://static.miraheze.org/bluearchivewiki/7/73/Makoto_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/ae/Makoto_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/12/Makoto_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/61/Makoto_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/30/Makoto_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b4/Makoto_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/2/21/Makoto_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/d1/Makoto_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/5/5e/Makoto_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/be/Makoto_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/a0/Makoto_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/0/09/Makoto_11.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/71/Makoto_99.png"
   },
   "Mari": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/4f/Mari.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8f/Mari_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/3/3b/Mari_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/2/22/Mari_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/cb/Mari_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/a5/Mari_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/e0/Mari_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/18/Mari_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/9e/Mari_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/df/Mari_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/3/37/Mari_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/5/5a/Mari_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/5/50/Mari_99.png"
   },
-  "Mari (Track)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/88/Mari_%28Sportswear%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/73/Mari_%28Sportswear%29_full.png"
+  "Mari (Sportswear) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/c/c8/Mari_%28Sportswear%29_diorama_00.png"
   },
   "Marina": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/9d/Marina.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5c/Marina_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4f/Marina_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/da/Marina_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/bc/Marina_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/e9/Marina_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/bf/Marina_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/14/Marina_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/5e/Marina_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/4/47/Marina_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/03/Marina_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b6/Marina_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/a4/Marina_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/f/f2/Marina_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/9/9c/Marina_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/7d/Marina_99.png"
   },
   "Mashiro": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/06/Mashiro.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/af/Mashiro_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/0/04/Mashiro_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a4/Mashiro_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/eb/Mashiro_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/79/Mashiro_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/0f/Mashiro_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/40/Mashiro_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/8e/Mashiro_99.png"
   },
-  "Mashiro (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/2/20/Mashiro_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1c/Mashiro_%28Swimsuit%29_full.png"
+  "Mashiro (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/4/43/Mashiro_%28Swimsuit%29_diorama_00.png"
   },
   "Megu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d4/Megu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/76/Megu_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4e/Megu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/a5/Megu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/1d/Megu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/4a/Megu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/50/Megu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/9a/Megu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/4e/Megu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/8/8f/Megu_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/8c/Megu_99.png"
+  },
+  "Meru": {
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a7/Meru_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/7/7a/Meru_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/8e/Meru_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/79/Meru_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/64/Meru_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/2/2d/Meru_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/56/Meru_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/0/0c/Meru_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/6/6b/Meru_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/5/5a/Meru_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/39/Meru_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/b/ba/Meru_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/9/92/Meru_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/4/4c/Meru_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/a/a9/Meru_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/c/c0/Meru_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/b/b6/Meru_16.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1c/Meru_99.png"
   },
   "Michiru": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e6/Michiru.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fe/Michiru_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4d/Michiru_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/94/Michiru_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/95/Michiru_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/52/Michiru_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/2a/Michiru_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/2/23/Michiru_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/58/Michiru_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/72/Michiru_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/8/8f/Michiru_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/9/9f/Michiru_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d3/Michiru_99.png"
   },
   "Midori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/ee/Midori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/5/5e/Midori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/fd/Midori_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/f/f8/Midori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/83/Midori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/42/Midori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f4/Midori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/5f/Midori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/76/Midori_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/6/6f/Midori_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/2/2e/Midori_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/1/16/Midori_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/9/94/Midori_99.png"
   },
   "Mika": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c8/Mika.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a6/Mika_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/3/3b/Mika_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/0f/Mika_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/1b/Mika_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/dd/Mika_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/cc/Mika_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/1b/Mika_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/4f/Mika_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/9c/Mika_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/9c/Mika_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b4/Mika_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/e/e0/Mika_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/e/e2/Mika_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/2/25/Mika_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/3/32/Mika_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/c/c3/Mika_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/7/73/Mika_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/8/8a/Mika_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/c/c6/Mika_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/e/e7/Mika_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/5/58/Mika_19.png",
+    "20": "https://static.miraheze.org/bluearchivewiki/8/8a/Mika_20.png",
+    "21": "https://static.miraheze.org/bluearchivewiki/e/e0/Mika_21.png",
+    "22": "https://static.miraheze.org/bluearchivewiki/1/1b/Mika_22.png",
+    "23": "https://static.miraheze.org/bluearchivewiki/a/ab/Mika_23.png",
+    "24": "https://static.miraheze.org/bluearchivewiki/9/9f/Mika_24.png",
+    "25": "https://static.miraheze.org/bluearchivewiki/a/aa/Mika_25.png",
+    "26": "https://static.miraheze.org/bluearchivewiki/7/76/Mika_26.png",
+    "27": "https://static.miraheze.org/bluearchivewiki/d/d0/Mika_27.png",
+    "28": "https://static.miraheze.org/bluearchivewiki/d/df/Mika_28.png",
+    "29": "https://static.miraheze.org/bluearchivewiki/b/b5/Mika_29.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/ca/Mika_99.png"
   },
   "Mimori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/82/Mimori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/72/Mimori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/84/Mimori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/d6/Mimori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a5/Mimori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c0/Mimori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/a/a9/Mimori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b7/Mimori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/84/Mimori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/bb/Mimori_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/91/Mimori_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/8/89/Mimori_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/d/d9/Mimori_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/35/Mimori_99.png"
+  },
+  "Mimori (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/fb/Mimori_%28Swimsuit%29_diorama_00.png"
+  },
+  "Mina": {
+    "00": "https://static.miraheze.org/bluearchivewiki/8/80/Mina_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/60/Mina_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b2/Mina_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c1/Mina_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/dd/Mina_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b5/Mina_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e5/Mina_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/c/c4/Mina_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e3/Mina_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/d/da/Mina_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/f1/Mina_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/f/f4/Mina_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/5/52/Mina_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/b/b3/Mina_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/a/ab/Mina_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/0/02/Mina_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/2/22/Mina_16.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/0/0d/Mina_99.png"
   },
   "Mine": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a0/Mine.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/1f/Mine_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/2/27/Mine_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/91/Mine_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c1/Mine_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/ee/Mine_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/e4/Mine_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/61/Mine_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/77/Mine_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/0/0c/Mine_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e6/Mine_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/f/f0/Mine_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e4/Mine_99.png"
+  },
+  "Minori": {
+    "00": "https://static.miraheze.org/bluearchivewiki/c/cc/Minori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/dd/Minori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/7/76/Minori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/e1/Minori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/f8/Minori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/9/92/Minori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/80/Minori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/98/Minori_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/a/a9/Minori_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/13/Minori_09.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/cf/Minori_99.png"
+  },
+  "Misaka Mikoto": {
+    "https://static.miraheze.org/bluearchivewiki/a/ad/MisakaMikoto00": "https://static.miraheze.org/bluearchivewiki/a/ad/Misaka_Mikoto_00.png",
+    "https://static.miraheze.org/bluearchivewiki/7/75/MisakaMikoto01": "https://static.miraheze.org/bluearchivewiki/7/75/Misaka_Mikoto_01.png",
+    "https://static.miraheze.org/bluearchivewiki/e/e5/MisakaMikoto02": "https://static.miraheze.org/bluearchivewiki/e/e5/Misaka_Mikoto_02.png",
+    "https://static.miraheze.org/bluearchivewiki/f/f2/MisakaMikoto03": "https://static.miraheze.org/bluearchivewiki/f/f2/Misaka_Mikoto_03.png",
+    "https://static.miraheze.org/bluearchivewiki/4/49/MisakaMikoto04": "https://static.miraheze.org/bluearchivewiki/4/49/Misaka_Mikoto_04.png",
+    "https://static.miraheze.org/bluearchivewiki/7/79/MisakaMikoto05": "https://static.miraheze.org/bluearchivewiki/7/79/Misaka_Mikoto_05.png",
+    "https://static.miraheze.org/bluearchivewiki/8/8a/MisakaMikoto06": "https://static.miraheze.org/bluearchivewiki/8/8a/Misaka_Mikoto_06.png",
+    "https://static.miraheze.org/bluearchivewiki/b/bc/MisakaMikoto07": "https://static.miraheze.org/bluearchivewiki/b/bc/Misaka_Mikoto_07.png",
+    "https://static.miraheze.org/bluearchivewiki/7/7c/MisakaMikoto08": "https://static.miraheze.org/bluearchivewiki/7/7c/Misaka_Mikoto_08.png",
+    "https://static.miraheze.org/bluearchivewiki/c/ca/MisakaMikoto09": "https://static.miraheze.org/bluearchivewiki/c/ca/Misaka_Mikoto_09.png",
+    "https://static.miraheze.org/bluearchivewiki/2/2b/MisakaMikoto10": "https://static.miraheze.org/bluearchivewiki/2/2b/Misaka_Mikoto_10.png",
+    "https://static.miraheze.org/bluearchivewiki/a/a3/MisakaMikoto11": "https://static.miraheze.org/bluearchivewiki/a/a3/Misaka_Mikoto_11.png",
+    "https://static.miraheze.org/bluearchivewiki/c/c5/MisakaMikoto12": "https://static.miraheze.org/bluearchivewiki/c/c5/Misaka_Mikoto_12.png",
+    "https://static.miraheze.org/bluearchivewiki/0/00/MisakaMikoto13": "https://static.miraheze.org/bluearchivewiki/0/00/Misaka_Mikoto_13.png",
+    "https://static.miraheze.org/bluearchivewiki/1/19/MisakaMikoto14": "https://static.miraheze.org/bluearchivewiki/1/19/Misaka_Mikoto_14.png",
+    "https://static.miraheze.org/bluearchivewiki/d/db/MisakaMikoto15": "https://static.miraheze.org/bluearchivewiki/d/db/Misaka_Mikoto_15.png",
+    "https://static.miraheze.org/bluearchivewiki/3/32/MisakaMikoto16": "https://static.miraheze.org/bluearchivewiki/3/32/Misaka_Mikoto_16.png",
+    "https://static.miraheze.org/bluearchivewiki/1/19/MisakaMikoto17": "https://static.miraheze.org/bluearchivewiki/1/19/Misaka_Mikoto_17.png",
+    "https://static.miraheze.org/bluearchivewiki/e/ed/MisakaMikoto18": "https://static.miraheze.org/bluearchivewiki/e/ed/Misaka_Mikoto_18.png",
+    "https://static.miraheze.org/bluearchivewiki/e/ee/MisakaMikoto99": "https://static.miraheze.org/bluearchivewiki/e/ee/Misaka_Mikoto_99.png"
   },
   "Misaki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ae/Misaki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f1/Misaki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e2/Misaki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/55/Misaki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c7/Misaki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/1f/Misaki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/c0/Misaki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b1/Misaki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8f/Misaki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/e/e0/Misaki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/3/37/Misaki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b1/Misaki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/d/dd/Misaki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/1/13/Misaki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/7/76/Misaki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/1/15/Misaki_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/f/f7/Misaki_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/5/51/Misaki_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/c/cf/Misaki_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/e/ed/Misaki_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/6/6b/Misaki_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/9/96/Misaki_19.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/c3/Misaki_99.png"
   },
   "Miyako": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3e/Miyako.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e9/Miyako_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/b/b8/Miyako_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/7/7a/Miyako_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/9b/Miyako_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c7/Miyako_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/2c/Miyako_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/1f/Miyako_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/3a/Miyako_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/4/41/Miyako_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/e/e4/Miyako_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/8/8b/Miyako_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/fe/Miyako_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/9/9a/Miyako_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/6/6f/Miyako_12.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/e0/Miyako_99.png"
   },
-  "Miyu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ac/Miyu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Miyu_full.png"
+  "Miyako (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/b/b9/Miyako_%28Swimsuit%29_00.png"
+  },
+  "Miyu diorama": {
+    "diorama00": "https://static.miraheze.org/bluearchivewiki/d/d7/Miyu_diorama_00.png",
+    "diorama01": "https://static.miraheze.org/bluearchivewiki/9/97/Miyu_diorama_01.png",
+    "diorama02": "https://static.miraheze.org/bluearchivewiki/3/3c/Miyu_diorama_02.png",
+    "diorama03": "https://static.miraheze.org/bluearchivewiki/f/f8/Miyu_diorama_03.png",
+    "diorama04": "https://static.miraheze.org/bluearchivewiki/9/90/Miyu_diorama_04.png",
+    "diorama05": "https://static.miraheze.org/bluearchivewiki/7/70/Miyu_diorama_05.png",
+    "diorama06": "https://static.miraheze.org/bluearchivewiki/2/22/Miyu_diorama_06.png",
+    "diorama07": "https://static.miraheze.org/bluearchivewiki/3/35/Miyu_diorama_07.png",
+    "diorama08": "https://static.miraheze.org/bluearchivewiki/f/fb/Miyu_diorama_08.png",
+    "diorama09": "https://static.miraheze.org/bluearchivewiki/5/53/Miyu_diorama_09.png",
+    "diorama10": "https://static.miraheze.org/bluearchivewiki/0/08/Miyu_diorama_10.png",
+    "diorama11": "https://static.miraheze.org/bluearchivewiki/b/b0/Miyu_diorama_11.png",
+    "diorama12": "https://static.miraheze.org/bluearchivewiki/d/d9/Miyu_diorama_12.png",
+    "diorama99": "https://static.miraheze.org/bluearchivewiki/1/11/Miyu_diorama_99.png"
+  },
+  "Miyu (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/d/d7/Miyu_%28Swimsuit%29_00.png"
   },
   "Moe": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/cc/Moe.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/bc/Moe_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/82/Moe_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/96/Moe_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/87/Moe_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/4a/Moe_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/4/44/Moe_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/6d/Moe_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/5d/Moe_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/2/22/Moe_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b8/Moe_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/ac/Moe_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/d/d9/Moe_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/6/60/Moe_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/4/48/Moe_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/9/98/Moe_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/d/d7/Moe_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/4/4b/Moe_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/f/f5/Moe_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/3/35/Moe_18.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d7/Moe_99.png"
+  },
+  "Momiji": {
+    "00": "https://static.miraheze.org/bluearchivewiki/4/45/Momiji_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/4/42/Momiji_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/62/Momiji_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/6c/Momiji_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/69/Momiji_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/60/Momiji_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/6c/Momiji_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/8/8b/Momiji_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/ca/Momiji_99.png"
   },
   "Momoi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/18/Momoi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/dd/Momoi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/87/Momoi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/b8/Momoi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6e/Momoi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/50/Momoi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/ed/Momoi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/19/Momoi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/78/Momoi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/2/2e/Momoi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/98/Momoi_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/fa/Momoi_99.png"
   },
   "Mutsuki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0b/Mutsuki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c8/Mutsuki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a4/Mutsuki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/6/6b/Mutsuki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6f/Mutsuki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/40/Mutsuki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/ce/Mutsuki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/d/de/Mutsuki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/aa/Mutsuki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/6/60/Mutsuki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/6/66/Mutsuki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/14/Mutsuki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/88/Mutsuki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/7/74/Mutsuki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/e/ef/Mutsuki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/5/5b/Mutsuki_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/6/6e/Mutsuki_99.png"
   },
   "Mutsuki (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Mutsuki_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b2/Mutsuki_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/9/9a/Mutsuki_%28New_Year%29_00.png"
   },
   "Nagisa": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/6a/Nagisa.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/0f/Nagisa_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/63/Nagisa_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b9/Nagisa_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/1/18/Nagisa_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/46/Nagisa_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/03/Nagisa_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/16/Nagisa_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/c/c0/Nagisa_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/9e/Nagisa_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/7/74/Nagisa_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/e/e1/Nagisa_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/4/42/Nagisa_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/c/cb/Nagisa_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/4/4e/Nagisa_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/d/d5/Nagisa_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/3/33/Nagisa_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/6/67/Nagisa_16.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/c7/Nagisa_99.png"
   },
   "Natsu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/90/Natsu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/ef/Natsu_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/5/5e/Natsu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/c/cf/Natsu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/6a/Natsu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/46/Natsu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/70/Natsu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/ff/Natsu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/52/Natsu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/4/4b/Natsu_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/40/Natsu_99.png"
   },
   "Neru": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/2/24/Neru.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c7/Neru_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a2/Neru_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/1/11/Neru_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/89/Neru_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/ae/Neru_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/90/Neru_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/aa/Neru_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/d/d6/Neru_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/6/62/Neru_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/a/a4/Neru_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/bf/Neru_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/9/94/Neru_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/f6/Neru_99.png"
   },
-  "Neru (Bunny)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/78/Neru_%28Bunny_Girl%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/13/Neru_%28Bunny_Girl%29_full.png"
+  "Neru (Bunny Girl)": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/f2/Neru_%28Bunny_Girl%29_00.png"
   },
   "Noa": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/2/23/Noa.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/18/Noa_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/5/50/Noa_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/dd/Noa_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/3/38/Noa_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/e2/Noa_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/68/Noa_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/54/Noa_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8a/Noa_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/d6/Noa_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/8/81/Noa_99.png"
   },
   "Nodoka": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e1/Nodoka.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c3/Nodoka_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/7/75/Nodoka_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/57/Nodoka_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/3/37/Nodoka_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/6b/Nodoka_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/8/8d/Nodoka_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b5/Nodoka_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/4c/Nodoka_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/5f/Nodoka_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1d/Nodoka_99.png"
   },
-  "Nodoka (Hot Spring)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3f/Nodoka_%28Hot_Spring%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9c/Nodoka_%28Hot_Spring%29_full.png"
+  "Nodoka (Hot Spring) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/8/80/Nodoka_%28Hot_Spring%29_diorama_00.png"
   },
   "Nonomi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/ad/Nonomi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3f/Nonomi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/85/Nonomi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/06/Nonomi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/13/Nonomi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/0a/Nonomi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/7c/Nonomi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/5b/Nonomi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/16/Nonomi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/bc/Nonomi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/3/3e/Nonomi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b4/Nonomi_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/5/56/Nonomi_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/9/9f/Nonomi_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/a/a0/Nonomi_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/0/04/Nonomi_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/d/d1/Nonomi_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/3/3e/Nonomi_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/c/c4/Nonomi_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/2/2b/Nonomi_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/8/89/Nonomi_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/a/aa/Nonomi_19.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/75/Nonomi_99.png"
   },
-  "Nonomi (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/98/Nonomi_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/01/Nonomi_%28Swimsuit%29_full.png"
+  "Nonomi (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/4/4a/Nonomi_%28Swimsuit%29_diorama_00.png"
   },
   "Pina": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/9/96/Pina.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f7/Pina_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a0/Pina_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/b6/Pina_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/17/Pina_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/71/Pina_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/3b/Pina_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/76/Pina_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e2/Pina_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/e/ec/Pina_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/d/da/Pina_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/47/Pina_99.png"
   },
   "Reisa": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/34/Reisa.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/5/59/Reisa_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/48/Reisa_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/3/30/Reisa_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/f/f8/Reisa_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/53/Reisa_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/22/Reisa_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/05/Reisa_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/a1/Reisa_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/db/Reisa_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/09/Reisa_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/44/Reisa_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/1/1f/Reisa_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/4/40/Reisa_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/3/38/Reisa_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/6/64/Reisa_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/b/bc/Reisa_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/4/46/Reisa_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/f/f2/Reisa_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/4/4c/Reisa_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/9/9a/Reisa_18.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/44/Reisa_99.png"
+  },
+  "Renge": {
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a1/Renge_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/7/7a/Renge_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/f/f0/Renge_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/af/Renge_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/1/1c/Renge_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b7/Renge_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/6e/Renge_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a0/Renge_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/94/Renge_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/bb/Renge_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/d/dc/Renge_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/3/3a/Renge_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/1/14/Renge_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/b/b5/Renge_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/e/ea/Renge_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/7/77/Renge_15.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/f/f1/Renge_99.png"
+  },
+  "Rumi": {
+    "00": "https://static.miraheze.org/bluearchivewiki/b/b9/Rumi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/aa/Rumi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/20/Rumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/e/ee/Rumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/cf/Rumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/b/b5/Rumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8a/Rumi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/3/35/Rumi_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/2/23/Rumi_99.png"
   },
   "Saki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d0/Saki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/19/Saki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/85/Saki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/94/Saki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/5e/Saki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/24/Saki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/33/Saki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/3/38/Saki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/d/de/Saki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/3/36/Saki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/7/72/Saki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/0/07/Saki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/3b/Saki_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/8/87/Saki_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/4/4a/Saki_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/b/b3/Saki_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/b/bf/Saki_99.png"
+  },
+  "Saki (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/f/f3/Saki_%28Swimsuit%29_00.png"
   },
   "Sakurako": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f0/Sakurako.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d4/Sakurako_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a6/Sakurako_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/82/Sakurako_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/2f/Sakurako_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/3d/Sakurako_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/4/48/Sakurako_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/8/8b/Sakurako_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/50/Sakurako_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/3/38/Sakurako_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/a/a6/Sakurako_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/84/Sakurako_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/1/17/Sakurako_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/5/54/Sakurako_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/f/f9/Sakurako_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/7/78/Sakurako_99.png"
   },
   "Saori": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/46/Saori.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/39/Saori_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/49/Saori_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/1/1c/Saori_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/b/b2/Saori_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/00/Saori_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/1/11/Saori_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/83/Saori_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/3f/Saori_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/d8/Saori_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/05/Saori_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/9/95/Saori_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/ff/Saori_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/6/62/Saori_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/f/f6/Saori_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/0/0e/Saori_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/2/2f/Saori_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/1/1a/Saori_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/e/e6/Saori_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/2/2c/Saori_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/3/38/Saori_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/7/70/Saori_19.png",
+    "20": "https://static.miraheze.org/bluearchivewiki/7/77/Saori_20.png",
+    "21": "https://static.miraheze.org/bluearchivewiki/3/3a/Saori_21.png",
+    "22": "https://static.miraheze.org/bluearchivewiki/f/fa/Saori_22.png",
+    "23": "https://static.miraheze.org/bluearchivewiki/0/08/Saori_23.png",
+    "24": "https://static.miraheze.org/bluearchivewiki/3/34/Saori_24.png",
+    "25": "https://static.miraheze.org/bluearchivewiki/7/79/Saori_25.png",
+    "26": "https://static.miraheze.org/bluearchivewiki/3/3e/Saori_26.png",
+    "27": "https://static.miraheze.org/bluearchivewiki/a/ad/Saori_27.png",
+    "28": "https://static.miraheze.org/bluearchivewiki/f/fb/Saori_28.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/34/Saori_99.png"
+  },
+  "Saten Ruiko": {
+    "https://static.miraheze.org/bluearchivewiki/3/33/SatenRuiko00": "https://static.miraheze.org/bluearchivewiki/3/33/Saten_Ruiko_00.png",
+    "https://static.miraheze.org/bluearchivewiki/7/7a/SatenRuiko01": "https://static.miraheze.org/bluearchivewiki/7/7a/Saten_Ruiko_01.png",
+    "https://static.miraheze.org/bluearchivewiki/2/24/SatenRuiko02": "https://static.miraheze.org/bluearchivewiki/2/24/Saten_Ruiko_02.png",
+    "https://static.miraheze.org/bluearchivewiki/3/35/SatenRuiko03": "https://static.miraheze.org/bluearchivewiki/3/35/Saten_Ruiko_03.png",
+    "https://static.miraheze.org/bluearchivewiki/9/96/SatenRuiko04": "https://static.miraheze.org/bluearchivewiki/9/96/Saten_Ruiko_04.png",
+    "https://static.miraheze.org/bluearchivewiki/6/65/SatenRuiko05": "https://static.miraheze.org/bluearchivewiki/6/65/Saten_Ruiko_05.png",
+    "https://static.miraheze.org/bluearchivewiki/6/64/SatenRuiko06": "https://static.miraheze.org/bluearchivewiki/6/64/Saten_Ruiko_06.png",
+    "https://static.miraheze.org/bluearchivewiki/9/9d/SatenRuiko07": "https://static.miraheze.org/bluearchivewiki/9/9d/Saten_Ruiko_07.png",
+    "https://static.miraheze.org/bluearchivewiki/f/f5/SatenRuiko08": "https://static.miraheze.org/bluearchivewiki/f/f5/Saten_Ruiko_08.png",
+    "https://static.miraheze.org/bluearchivewiki/3/3f/SatenRuiko09": "https://static.miraheze.org/bluearchivewiki/3/3f/Saten_Ruiko_09.png",
+    "https://static.miraheze.org/bluearchivewiki/3/3d/SatenRuiko10": "https://static.miraheze.org/bluearchivewiki/3/3d/Saten_Ruiko_10.png",
+    "https://static.miraheze.org/bluearchivewiki/6/6f/SatenRuiko11": "https://static.miraheze.org/bluearchivewiki/6/6f/Saten_Ruiko_11.png",
+    "https://static.miraheze.org/bluearchivewiki/7/77/SatenRuiko12": "https://static.miraheze.org/bluearchivewiki/7/77/Saten_Ruiko_12.png",
+    "https://static.miraheze.org/bluearchivewiki/2/29/SatenRuiko13": "https://static.miraheze.org/bluearchivewiki/2/29/Saten_Ruiko_13.png",
+    "https://static.miraheze.org/bluearchivewiki/9/98/SatenRuiko14": "https://static.miraheze.org/bluearchivewiki/9/98/Saten_Ruiko_14.png",
+    "https://static.miraheze.org/bluearchivewiki/4/46/SatenRuiko99": "https://static.miraheze.org/bluearchivewiki/4/46/Saten_Ruiko_99.png"
   },
   "Saya": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/ce/Saya.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/a1/Saya_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/2/28/Saya_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/2/2c/Saya_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/25/Saya_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/05/Saya_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/c/c6/Saya_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/5/57/Saya_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/1b/Saya_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/7e/Saya_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/3c/Saya_99.png"
   },
   "Saya (Casual)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e2/Saya_%28Casual%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/06/Saya_%28Casual%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/e/ef/Saya_%28Casual%29_00.png"
   },
   "Sena": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f4/Sena.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e5/Sena_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/1/10/Sena_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/52/Sena_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/e/e8/Sena_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/46/Sena_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/27/Sena_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/fe/Sena_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e8/Sena_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/46/Sena_99.png"
   },
   "Serika": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c8/Serika.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/c0/Serika_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/b/b0/Serika_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/3/34/Serika_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/3/38/Serika_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/5c/Serika_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/4/4d/Serika_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/15/Serika_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/c/ce/Serika_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/5/59/Serika_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/6/6c/Serika_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/40/Serika_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/d/db/Serika_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/4/49/Serika_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/a/a2/Serika_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/6/6c/Serika_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/0/05/Serika_99.png"
   },
   "Serika (New Year)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/61/Serika_%28New_Year%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/01/Serika_%28New_Year%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/9/90/Serika_%28New_Year%29_00.png"
   },
   "Serina": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/4/41/Serina.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Serina_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/f4/Serina_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/11/Serina_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/a/ad/Serina_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b3/Serina_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f7/Serina_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/4/4a/Serina_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d2/Serina_99.png"
   },
-  "Serina (Christmas)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/19/Serina_%28Christmas%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/74/Serina_%28Christmas%29_full.png"
+  "Serina (Christmas) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/1/15/Serina_%28Christmas%29_diorama_00.png"
   },
   "Shigure": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/da/Shigure.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/9d/Shigure_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/7/71/Shigure_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/e/e9/Shigure_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/9f/Shigure_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/8/8d/Shigure_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/7b/Shigure_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/e/e7/Shigure_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/91/Shigure_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/6/6a/Shigure_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/4f/Shigure_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/2/2b/Shigure_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/7/7e/Shigure_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/2/2e/Shigure_11.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/b/b7/Shigure_99.png"
+  },
+  "Shigure (Hot Spring) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/2/26/Shigure_%28Hot_Spring%29_diorama_00.png"
   },
   "Shimiko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f4/Shimiko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/9/93/Shimiko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a3/Shimiko_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/64/Shimiko_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/52/Shimiko_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/7/7a/Shimiko_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/84/Shimiko_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f8/Shimiko_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/c6/Shimiko_99.png"
   },
   "Shiroko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/63/Shiroko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/b/b8/Shiroko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/0/0a/Shiroko_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/d9/Shiroko_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/98/Shiroko_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/d7/Shiroko_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/bd/Shiroko_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/74/Shiroko_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/ac/Shiroko_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/b/b8/Shiroko_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/49/Shiroko_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/3/3c/Shiroko_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/d/d3/Shiroko_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/e/e5/Shiroko_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/b/bb/Shiroko_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/4/43/Shiroko_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/b/b5/Shiroko_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/1/13/Shiroko_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/6/67/Shiroko_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/0/06/Shiroko_17.png",
+    "%28Riding%2900": "https://static.miraheze.org/bluearchivewiki/8/81/Shiroko_%28Riding%29_00.png",
+    "%28Riding%2901": "https://static.miraheze.org/bluearchivewiki/6/68/Shiroko_%28Riding%29_01.png",
+    "%28Riding%2902": "https://static.miraheze.org/bluearchivewiki/a/a7/Shiroko_%28Riding%29_02.png",
+    "%28Riding%2903": "https://static.miraheze.org/bluearchivewiki/c/c2/Shiroko_%28Riding%29_03.png",
+    "%28Riding%2904": "https://static.miraheze.org/bluearchivewiki/3/3f/Shiroko_%28Riding%29_04.png",
+    "%28Riding%2905": "https://static.miraheze.org/bluearchivewiki/9/95/Shiroko_%28Riding%29_05.png",
+    "%28Riding%2906": "https://static.miraheze.org/bluearchivewiki/9/92/Shiroko_%28Riding%29_06.png",
+    "%28Riding%2999": "https://static.miraheze.org/bluearchivewiki/6/69/Shiroko_%28Riding%29_99.png"
   },
-  "Shiroko (Cycling)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a0/Shiroko_%28Riding%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fa/Shiroko_%28Riding%29_full.png"
+  "Shiroko (Riding)": {
+    "00": "//static.miraheze.org/bluearchivewiki/8/81/Shiroko_%28Riding%29_00.png"
+  },
+  "Shiroko (Swimsuit)": {
+    "00": "//static.miraheze.org/bluearchivewiki/5/5d/Shiroko_%28Swimsuit%29_00.png"
   },
   "Shizuko": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/77/Shizuko.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e3/Shizuko_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/9e/Shizuko_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/4/43/Shizuko_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/94/Shizuko_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/62/Shizuko_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/5/50/Shizuko_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/f6/Shizuko_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/9/96/Shizuko_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/1c/Shizuko_99.png"
   },
-  "Shizuko (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/f/f2/Shizuko_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f6/Shizuko_%28Swimsuit%29_full.png"
+  "Shizuko (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/1/18/Shizuko_%28Swimsuit%29_diorama_00.png"
+  },
+  "Shokuhou Misaki": {
+    "https://static.miraheze.org/bluearchivewiki/f/f7/ShokuhouMisaki00": "https://static.miraheze.org/bluearchivewiki/f/f7/Shokuhou_Misaki_00.png",
+    "https://static.miraheze.org/bluearchivewiki/a/a3/ShokuhouMisaki01": "https://static.miraheze.org/bluearchivewiki/a/a3/Shokuhou_Misaki_01.png",
+    "https://static.miraheze.org/bluearchivewiki/7/7f/ShokuhouMisaki02": "https://static.miraheze.org/bluearchivewiki/7/7f/Shokuhou_Misaki_02.png",
+    "https://static.miraheze.org/bluearchivewiki/3/3b/ShokuhouMisaki03": "https://static.miraheze.org/bluearchivewiki/3/3b/Shokuhou_Misaki_03.png",
+    "https://static.miraheze.org/bluearchivewiki/7/72/ShokuhouMisaki04": "https://static.miraheze.org/bluearchivewiki/7/72/Shokuhou_Misaki_04.png",
+    "https://static.miraheze.org/bluearchivewiki/6/60/ShokuhouMisaki05": "https://static.miraheze.org/bluearchivewiki/6/60/Shokuhou_Misaki_05.png",
+    "https://static.miraheze.org/bluearchivewiki/6/6e/ShokuhouMisaki06": "https://static.miraheze.org/bluearchivewiki/6/6e/Shokuhou_Misaki_06.png",
+    "https://static.miraheze.org/bluearchivewiki/7/7d/ShokuhouMisaki07": "https://static.miraheze.org/bluearchivewiki/7/7d/Shokuhou_Misaki_07.png",
+    "https://static.miraheze.org/bluearchivewiki/a/a8/ShokuhouMisaki08": "https://static.miraheze.org/bluearchivewiki/a/a8/Shokuhou_Misaki_08.png",
+    "https://static.miraheze.org/bluearchivewiki/9/9f/ShokuhouMisaki09": "https://static.miraheze.org/bluearchivewiki/9/9f/Shokuhou_Misaki_09.png",
+    "https://static.miraheze.org/bluearchivewiki/8/83/ShokuhouMisaki10": "https://static.miraheze.org/bluearchivewiki/8/83/Shokuhou_Misaki_10.png",
+    "https://static.miraheze.org/bluearchivewiki/e/ed/ShokuhouMisaki11": "https://static.miraheze.org/bluearchivewiki/e/ed/Shokuhou_Misaki_11.png",
+    "https://static.miraheze.org/bluearchivewiki/8/82/ShokuhouMisaki99": "https://static.miraheze.org/bluearchivewiki/8/82/Shokuhou_Misaki_99.png"
   },
   "Shun": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/17/Shun.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/4/4f/Shun_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/9/9b/Shun_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/8/8e/Shun_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/c/c2/Shun_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/45/Shun_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/3/30/Shun_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/67/Shun_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f7/Shun_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/ae/Shun_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/9/94/Shun_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/10/Shun_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/a1/Shun_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/2/2c/Shun_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/0/0b/Shun_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/a/a8/Shun_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/9/94/Shun_14.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/ef/Shun_99.png"
   },
-  "Shun (Small)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/5/53/Shun_%28Kid%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/25/Shun_%28Kid%29_full.png"
+  "Shun (Kid) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/9/91/Shun_%28Kid%29_diorama_00.png"
   },
   "Sumire": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/d/d6/Sumire.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3a/Sumire_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/6c/Sumire_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/b/be/Sumire_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/97/Sumire_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/d8/Sumire_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/f3/Sumire_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/f/fb/Sumire_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/5/5e/Sumire_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/0/07/Sumire_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/4a/Sumire_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/16/Sumire_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/aa/Sumire_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/a/a1/Sumire_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/2/27/Sumire_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/d/d9/Sumire_13.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/4b/Sumire_99.png"
   },
   "Suzumi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/07/Suzumi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d5/Suzumi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/d/dc/Suzumi_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/85/Suzumi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/cd/Suzumi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/e/ed/Suzumi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/ad/Suzumi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/b/b7/Suzumi_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/ea/Suzumi_99.png"
   },
   "Toki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e4/Toki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/df/Toki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/f2/Toki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/99/Toki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/9/90/Toki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/6/62/Toki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/ba/Toki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/1/1e/Toki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/f/f0/Toki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/9/94/Toki_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/5/55/Toki_99.png"
   },
-  "Toki (Bunny)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/8/83/Toki_%28Bunny_Girl%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/7/7d/Toki_%28Bunny_Girl%29_full.png"
+  "Toki (Bunny Girl)": {
+    "00": "//static.miraheze.org/bluearchivewiki/d/d2/Toki_%28Bunny_Girl%29_00.png"
   },
   "Tomoe": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/0/0a/Tomoe.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/35/Tomoe_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/8/8c/Tomoe_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/9/96/Tomoe_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a5/Tomoe_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/d/dc/Tomoe_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/6/66/Tomoe_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/6/60/Tomoe_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/a/a9/Tomoe_06.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/6/6b/Tomoe_99.png"
   },
   "Tsubaki": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/6a/Tsubaki.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/1/17/Tsubaki_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/a5/Tsubaki_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/0e/Tsubaki_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/d/d1/Tsubaki_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/c/c7/Tsubaki_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/bc/Tsubaki_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/c/cb/Tsubaki_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/b/b9/Tsubaki_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/2/2c/Tsubaki_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/4/46/Tsubaki_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/f/ff/Tsubaki_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/3/3c/Tsubaki_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/12/Tsubaki_99.png"
+  },
+  "Tsubaki (Guide)": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/32/Tsubaki_%28Guide%29_00.png"
   },
   "Tsukuyo": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/ce/Tsukuyo.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/fe/Tsukuyo_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/e/e7/Tsukuyo_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/0/07/Tsukuyo_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/a/a1/Tsukuyo_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/20/Tsukuyo_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/1/1c/Tsukuyo_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/7e/Tsukuyo_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/e0/Tsukuyo_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/e/e2/Tsukuyo_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/c/c6/Tsukuyo_99.png"
   },
   "Tsurugi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c1/Tsurugi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/3b/Tsurugi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/2/29/Tsurugi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/d/de/Tsurugi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/0/00/Tsurugi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/53/Tsurugi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/2/2d/Tsurugi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/0c/Tsurugi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/31/Tsurugi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/f/f0/Tsurugi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/1/1a/Tsurugi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/c/c5/Tsurugi_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/8/82/Tsurugi_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/3/3c/Tsurugi_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/a/a0/Tsurugi_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/f/fb/Tsurugi_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/2/29/Tsurugi_14.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/9/98/Tsurugi_99.png"
   },
-  "Tsurugi (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e6/Tsurugi_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/a/ab/Tsurugi_%28Swimsuit%29_full.png"
+  "Tsurugi (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/0/00/Tsurugi_%28Swimsuit%29_diorama_00.png"
   },
   "Ui": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/18/Ui.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/2/2c/Ui_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/d/dc/Ui_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/3/33/Ui_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/5/50/Ui_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/2/2d/Ui_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/b/b2/Ui_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/ad/Ui_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/6/6c/Ui_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/8/8d/Ui_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/08/Ui_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/b/b4/Ui_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/e/eb/Ui_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/b/ba/Ui_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/6/6a/Ui_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/2/27/Ui_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/a/a6/Ui_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/1/1c/Ui_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/a/af/Ui_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/6/63/Ui_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/1/15/Ui_18.png",
+    "19": "https://static.miraheze.org/bluearchivewiki/4/4e/Ui_19.png",
+    "20": "https://static.miraheze.org/bluearchivewiki/2/23/Ui_20.png",
+    "21": "https://static.miraheze.org/bluearchivewiki/7/7a/Ui_21.png",
+    "22": "https://static.miraheze.org/bluearchivewiki/9/9e/Ui_22.png",
+    "23": "https://static.miraheze.org/bluearchivewiki/1/10/Ui_23.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/d/d9/Ui_99.png"
+  },
+  "Ui (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/d/d2/Ui_%28Swimsuit%29_diorama_00.png"
+  },
+  "Umika": {
+    "00": "https://static.miraheze.org/bluearchivewiki/8/82/Umika_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/4/4d/Umika_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/0/0c/Umika_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/52/Umika_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/d6/Umika_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/8d/Umika_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/7/72/Umika_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/7/70/Umika_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/0d/Umika_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/7/77/Umika_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/4/45/Umika_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/8/84/Umika_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/3/34/Umika_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/c/cf/Umika_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/0/08/Umika_14.png",
+    "15": "https://static.miraheze.org/bluearchivewiki/1/15/Umika_15.png",
+    "16": "https://static.miraheze.org/bluearchivewiki/1/18/Umika_16.png",
+    "17": "https://static.miraheze.org/bluearchivewiki/e/e3/Umika_17.png",
+    "18": "https://static.miraheze.org/bluearchivewiki/d/d3/Umika_18.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/e/ec/Umika_99.png"
   },
   "Utaha": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/37/Utaha.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/c/cf/Utaha_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/4/4d/Utaha_00.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/e/e5/Utaha_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/4/43/Utaha_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/a/ad/Utaha_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/a/a6/Utaha_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/3/33/Utaha_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/da/Utaha_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/3/35/Utaha_99.png"
   },
-  "Utaha (Cheer Squad)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/7b/Utaha_%28Cheerleader%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f0/Utaha_%28Cheerleader%29_full.png"
+  "Utaha (Cheerleader) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/3/36/Utaha_%28Cheerleader%29_diorama_00.png"
   },
   "Wakamo": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/a/a7/Wakamo.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/d/d3/Wakamo_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/a/ab/Wakamo_00.png",
+    "S201": "https://static.miraheze.org/bluearchivewiki/6/65/Wakamo_S2_01.png",
+    "S202": "https://static.miraheze.org/bluearchivewiki/0/0d/Wakamo_S2_02.png",
+    "S203": "https://static.miraheze.org/bluearchivewiki/1/11/Wakamo_S2_03.png",
+    "S204": "https://static.miraheze.org/bluearchivewiki/a/ae/Wakamo_S2_04.png",
+    "S205": "https://static.miraheze.org/bluearchivewiki/0/00/Wakamo_S2_05.png",
+    "S206": "https://static.miraheze.org/bluearchivewiki/3/3b/Wakamo_S2_06.png",
+    "S207": "https://static.miraheze.org/bluearchivewiki/2/2c/Wakamo_S2_07.png",
+    "S208": "https://static.miraheze.org/bluearchivewiki/8/8a/Wakamo_S2_08.png",
+    "S209": "https://static.miraheze.org/bluearchivewiki/5/5d/Wakamo_S2_09.png",
+    "S210": "https://static.miraheze.org/bluearchivewiki/c/cc/Wakamo_S2_10.png",
+    "S211": "https://static.miraheze.org/bluearchivewiki/0/09/Wakamo_S2_11.png",
+    "S299": "https://static.miraheze.org/bluearchivewiki/8/8f/Wakamo_S2_99.png"
   },
-  "Wakamo (Swimsuit)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/e/e2/Wakamo_%28Swimsuit%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/3/37/Wakamo_%28Swimsuit%29_full.png"
+  "Wakamo (Swimsuit) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/1/16/Wakamo_%28Swimsuit%29_diorama_00.png"
   },
   "Yoshimi": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/c/c2/Yoshimi.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/8c/Yoshimi_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/6/60/Yoshimi_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/c/ca/Yoshimi_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/1/16/Yoshimi_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/f/fb/Yoshimi_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/8/89/Yoshimi_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/7/76/Yoshimi_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/1d/Yoshimi_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/a/a2/Yoshimi_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/8/8f/Yoshimi_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/1/19/Yoshimi_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/f/fd/Yoshimi_10.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/0/04/Yoshimi_99.png"
+  },
+  "Yukari": {
+    "00": "https://static.miraheze.org/bluearchivewiki/5/52/Yukari_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/5/52/Yukari_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/6/65/Yukari_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/5/55/Yukari_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/f/f4/Yukari_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/8/84/Yukari_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/1/18/Yukari_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/1/1a/Yukari_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/3/33/Yukari_08.png",
+    "09": "https://static.miraheze.org/bluearchivewiki/4/46/Yukari_09.png",
+    "10": "https://static.miraheze.org/bluearchivewiki/a/ab/Yukari_10.png",
+    "11": "https://static.miraheze.org/bluearchivewiki/d/da/Yukari_11.png",
+    "12": "https://static.miraheze.org/bluearchivewiki/5/5d/Yukari_12.png",
+    "13": "https://static.miraheze.org/bluearchivewiki/d/d8/Yukari_13.png",
+    "14": "https://static.miraheze.org/bluearchivewiki/1/10/Yukari_14.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/4/48/Yukari_99.png"
   },
   "Yuuka": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/3/3e/Yuuka.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/8/82/Yuuka_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/f/f9/Yuuka_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/e/e3/Yuuka_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/8/86/Yuuka_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/7/79/Yuuka_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/d/de/Yuuka_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/e/ef/Yuuka_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/e/ed/Yuuka_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/4/42/Yuuka_07.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/1/14/Yuuka_99.png"
   },
-  "Yuuka (Track)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/6/60/Yuuka_%28Sportswear%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/e/e1/Yuuka_%28Sportswear%29_full.png"
+  "Yuuka (Sportswear) diorama": {
+    "00": "//static.miraheze.org/bluearchivewiki/d/da/Yuuka_%28Sportswear%29_diorama_00.png"
   },
   "Yuzu": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/7/71/Yuzu.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/0/0d/Yuzu_full.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/2/29/Yuzu_00.png",
+    "01": "https://static.miraheze.org/bluearchivewiki/a/a2/Yuzu_01.png",
+    "02": "https://static.miraheze.org/bluearchivewiki/2/27/Yuzu_02.png",
+    "03": "https://static.miraheze.org/bluearchivewiki/0/0e/Yuzu_03.png",
+    "04": "https://static.miraheze.org/bluearchivewiki/9/9e/Yuzu_04.png",
+    "05": "https://static.miraheze.org/bluearchivewiki/0/0a/Yuzu_05.png",
+    "06": "https://static.miraheze.org/bluearchivewiki/c/cb/Yuzu_06.png",
+    "07": "https://static.miraheze.org/bluearchivewiki/d/de/Yuzu_07.png",
+    "08": "https://static.miraheze.org/bluearchivewiki/0/02/Yuzu_08.png",
+    "99": "https://static.miraheze.org/bluearchivewiki/a/a9/Yuzu_99.png"
   },
   "Yuzu (Maid)": {
-    "avatar": "https://static.miraheze.org/bluearchivewiki/1/17/Yuzu_%28Maid%29.png",
-    "full_image": "https://static.miraheze.org/bluearchivewiki/f/f8/Yuzu_%28Maid%29_full.png"
+    "00": "//static.miraheze.org/bluearchivewiki/c/c8/Yuzu_%28Maid%29_00.png"
   }
 }

@@ -38,41 +38,86 @@ def get_character_names(http):
     character_names = []
     count = 0
     for row in result:
-        print('getting character names...(' + str(count) +
+        print('生徒さんの名前を取得しています...(' + str(count) +
               '/' + str(len(result)) + ' names)', end='\r')
         names = row.find_all('td')[1].find('a').string
         character_names.append(names)
         count += 1
 
-    print('Getting character names...(' + str(count) +
-          '/' + str(len(result)) + ' names)')
-    time.sleep(5)
+    print('生徒さんの名前を取得しています...(' + str(count) +
+          '/' + str(len(result)) + ' キャラクター)')
     return character_names
 
 
 def get_character_image(http, name):
+    if ('Iroha' in name):
+        return ''
     try:
+        chrjson = {}
         result_avatar = soupify(
-            http, '/File:' + name.replace(' ', '_') + '.png')
-        time.sleep(5)
-        result_full = soupify(
-            http, '/File:' + name.replace(' ', '_') + '_full.png')
-        time.sleep(5)
+            http, '/File:' + name.replace(' ', '_') + '_00.png')
         image_avatar = result_avatar.find(
             'div', class_='fullImageLink').find('a')
-        image_full = result_full.find('div', class_='fullImageLink').find('a')
-        return {'avatar': 'https:' + image_avatar['href'], 'full_image': 'https:' + image_full['href']}
+        if (('(' not in name)):
+            name = name.replace(" diorama", "")
+            test = soupify(
+                http, '/' + name + '/gallery')
+            teest = test.find_all(
+                'div', class_='thumb')
+            i = 0
+            while ('_99.png' not in str(teest[i])):
+                target = 'src='
+                idx = str(teest[i]).find(target)
+                r = str(teest[i])[idx + 1:]
+                target2 = '.png/'
+                idx2 = r.find(target2)
+                r2 = r[:idx2]
+                result = r2.replace('rc="', '')
+                result = result.replace('"', '')
+                result = result.replace("/thumb", "")
+                result = "https:" + result + '.png'
+                target3 = ("/" + name)
+                idx3 = result.find(target3)
+                r3 = result[idx3 + 1:]
+                r3 = r3.replace(name, "")
+                r3 = r3.replace(".png", "")
+                r3 = r3.replace("_", "")
+                new_data = {
+                    r3: result
+                }
+                chrjson.update(new_data)
+                i += 1
+            else:
+                target = 'src='
+                idx = str(teest[i]).find(target)
+                r = str(teest[i])[idx + 1:]
+                target2 = '.png/'
+                idx2 = r.find(target2)
+                r2 = r[:idx2]
+                result = r2.replace('rc="', '')
+                result = result.replace('"', '')
+                result = result.replace("/thumb", "")
+                result = "https:" + result + '.png'
+                target3 = ("/" + name)
+                idx3 = result.find(target3)
+                r3 = result[idx3 + 1:]
+                r3 = r3.replace(name, "")
+                r3 = r3.replace(".png", "")
+                r3 = r3.replace("_", "")
+                new_data = {
+                    r3: result
+                }
+                chrjson.update(new_data)
+                i += 1
+            return chrjson
+        else:
+            return {"00": image_avatar['href']}
     except requests.exceptions.Timeout:
         result_avatar = soupify(
-            http, '/File:' + name.replace(' ', '_') + '.png')
-        time.sleep(5)
-        result_full = soupify(
-            http, '/File:' + name.replace(' ', '_') + '_full.png')
-        time.sleep(5)
+            http, '/File:' + name.replace(' ', '_') + '_00.png')
         image_avatar = result_avatar.find(
-            'div', class_='fullImageLink').find('a')
-        image_full = result_full.find('div', class_='fullImageLink').find('a')
-        return {'avatar': 'https:' + image_avatar['href'], 'full_image': 'https:' + image_full['href']}
+            'div', class_='mw-file-description').find_all('a')
+        return {'avatar': 'https:' + image_avatar['href']}
     except requests.exceptions.RequestException as e:
         # catastrophic error. bail.
         raise SystemExit(e)
@@ -80,18 +125,35 @@ def get_character_image(http, name):
 
 def rename_character(name):
     name_alt = ""
-    if re.search(r"(Bunny Girl)", name):
-        name_alt = re.sub(r"(Bunny Girl)", "Bunny", name)
+    if re.search(r"(Bunny)", name):
+        name_alt = name.replace("(Bunny)", "(Bunny Girl)")
     elif re.search(r"(Cheerleader)", name):
-        name_alt = re.sub(r"(Cheerleader)", "Cheer Squad", name)
+        name_alt = name.replace("(Cheerleader)", "(Cheerleader) diorama")
     elif re.search(r"(Kid)", name):
-        name_alt = re.sub(r"(Kid)", "Small", name)
+        name_alt = name.replace("(Kid)", "(Kid) diorama")
     elif re.search(r"(Riding)", name):
-        name_alt = re.sub(r"(Riding)", "Cycling", name)
-    elif re.search(r"(Arisu)", name):
-        name_alt = re.sub(r"(Arisu)", "Aris", name)
+        name_alt = name
+    elif re.search(r"(Aris)", name):
+        name_alt = name.replace("(Aris)", "(Arisu)")
     elif re.search(r"(Sportswear)", name):
-        name_alt = re.sub(r"(Sportswear)", "Track", name)
+        if (('Azusa' not in name) and ('Haruna' not in name) and ('Mari' not in name) and ('Yuuka' not in name)):
+            name_alt = name
+        else:
+            name_alt = name.replace("(Sportswear)", "(Sportswear) diorama")
+    elif re.search(r"(New Year)", name):
+        if (('Aru' not in name) and ('Haruka' not in name) and ('Izumi' not in name) and ('Junko' not in name) and ('Kayoko' not in name) and ('Mutsuki' not in name) and ('Serika' not in name)):
+            name_alt = name.replace("(New Year)", "(New Year) diorama")
+        else:
+            name_alt = name
+    elif re.search(r"(Swimsuit)", name):
+        if (('Hanako' not in name) and ('Hinata' not in name) and ('Koharu' not in name) and ('Miyako' not in name) and ('Miyu' not in name) and ('Moe' not in name) and ('Saki' not in name) and ('Serika' not in name) and ('Shiroko' not in name)):
+            name_alt = name.replace("(Swimsuit)", "(Swimsuit) diorama")
+    elif re.search(r"(Hot Spring)", name):
+        name_alt = name.replace("(Hot Spring)", "(Hot Spring) diorama")
+    elif re.search(r"Miyu", name):
+        name_alt = name.replace("Miyu", "Miyu diorama")
+    elif re.search(r"(Christmas)", name):
+        name_alt = name.replace("(Christmas)", "(Christmas) diorama")
 
     return name_alt
 
@@ -110,17 +172,19 @@ def main():
 
     for name in character_names:
         name_alt = rename_character(name)
+        if(name_alt == ''):
+            name_alt = name
 
-        print('Getting character (' + name + ') image...(' + str(count) +
-              '/' + str(len(character_names)) + ' character)')
+        print(name + 'さんの立ち絵を取得しています...(' + str(count) +
+              '/' + str(len(character_names)) + ' キャラクター)')
 
         result[name_alt if name_alt else name] = get_character_image(
-            http, name)
+            http, name_alt)
         count += 1
-
     json_object = json.dumps(result, indent=2)
     with open("student-images.json", "w") as outfile:
         outfile.write(json_object)
+    print('正常に終了しました。')
 
 
 if __name__ == '__main__':
