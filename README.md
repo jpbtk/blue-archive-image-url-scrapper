@@ -69,7 +69,7 @@ Yuzu (Maid)さんの立ち絵を取得しています...(177/177 キャラクタ
     "99": "https://static.miraheze.org/bluearchivewiki/a/a9/Yuzu_99.png"
   },
   "Yuzu (Maid)": {
-    "00": "//static.miraheze.org/bluearchivewiki/c/c8/Yuzu_%28Maid%29_00.png"
+    "00": "https://static.miraheze.org/bluearchivewiki/c/c8/Yuzu_%28Maid%29_00.png"
   }
   }
   ```
