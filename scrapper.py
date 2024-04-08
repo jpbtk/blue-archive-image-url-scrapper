@@ -111,7 +111,7 @@ def get_character_image(http, name):
                 i += 1
             return chrjson
         else:
-            return {"00": image_avatar['href']}
+            return {"00": 'https:' + image_avatar['href']}
     except requests.exceptions.Timeout:
         result_avatar = soupify(
             http, '/File:' + name.replace(' ', '_') + '_00.png')
