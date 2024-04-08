@@ -9,6 +9,7 @@ reykim7854さんのコードを動くように修正、日本語化、立ち絵�
 - beautifulsoup4
 - requests
 ## 使い方
+requirements.txt、scrapper.pyをダウンロードしてください
 - `requirements.txt`から必要なライブラリをインストールしてください
   ```
   pip install -r requirements.txt
