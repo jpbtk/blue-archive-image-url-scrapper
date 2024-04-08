@@ -2,6 +2,7 @@
 reykim7854さんのコードを動くように修正、日本語化、立ち絵表情差分などを追加したコードです
 # タスクリスト
 - [ ] 別衣装の立ち絵表情差分
+- [ ] イロハ
 # blue-archive-image-url-scrapper
 このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵のURLを取得します。
 ## 要件
