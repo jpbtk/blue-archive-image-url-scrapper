@@ -5,7 +5,7 @@
 - [ ] 別衣装(ストーリーのみ)の立ち絵
 - [ ] イロハ
 # すぐ使いたいなら
-[student-images.json](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/08更新)
+[student-images.json](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/09更新)
 # blue-archive-image-url-scrapper
 このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵のURLを取得します。
 ## 要件
