@@ -188,8 +188,9 @@ def main():
 
         print(name + 'さんの立ち絵を取得しています...(' + str(count) +
               '/' + str(len(character_names)) + ' キャラクター)')
+        name_alt_alt = name_alt.replace(" diorama", "")
 
-        result[name_alt if name_alt else name] = get_character_image(
+        result[name_alt_alt if name_alt else name] = get_character_image(
             http, name_alt)
         count += 1
     json_object = json.dumps(result, indent=2)

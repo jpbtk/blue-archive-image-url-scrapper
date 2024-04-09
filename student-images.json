@@ -39,7 +39,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/a/ab/Akari_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/2/23/Akari_99.png"
   },
-  "Akari (New Year) diorama": {
+  "Akari (New Year)": {
     "00": "https://static.miraheze.org/bluearchivewiki/8/84/Akari_%28New_Year%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/d/d1/Akari_%28New_Year%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/e/e9/Akari_%28New_Year%29_diorama_02.png",
@@ -241,7 +241,7 @@
     "15": "https://static.miraheze.org/bluearchivewiki/e/ef/Ayane_15.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/e2/Ayane_99.png"
   },
-  "Ayane (Swimsuit) diorama": {
+  "Ayane (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/e/ea/Ayane_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/a/a2/Ayane_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/7/7c/Ayane_%28Swimsuit%29_diorama_02.png",
@@ -274,7 +274,7 @@
     "09": "https://static.miraheze.org/bluearchivewiki/b/bb/Azusa_09.png",
     "99": "https://static.miraheze.org/bluearchivewiki/7/70/Azusa_99.png"
   },
-  "Azusa (Swimsuit) diorama": {
+  "Azusa (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/5/5a/Azusa_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/0/03/Azusa_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/e/e7/Azusa_%28Swimsuit%29_diorama_02.png",
@@ -295,7 +295,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/9/95/Cherino_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/4/48/Cherino_99.png"
   },
-  "Cherino (Hot Spring) diorama": {
+  "Cherino (Hot Spring)": {
     "00": "https://static.miraheze.org/bluearchivewiki/8/81/Cherino_%28Hot_Spring%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/f/f3/Cherino_%28Hot_Spring%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/5/54/Cherino_%28Hot_Spring%29_diorama_02.png",
@@ -328,7 +328,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/a/a3/Chinatsu_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/2/22/Chinatsu_99.png"
   },
-  "Chinatsu (Hot Spring) diorama": {
+  "Chinatsu (Hot Spring)": {
     "00": "https://static.miraheze.org/bluearchivewiki/f/f9/Chinatsu_%28Hot_Spring%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/1/14/Chinatsu_%28Hot_Spring%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/8/8f/Chinatsu_%28Hot_Spring%29_diorama_02.png",
@@ -354,7 +354,7 @@
     "09": "https://static.miraheze.org/bluearchivewiki/4/4a/Chise_09.png",
     "99": "https://static.miraheze.org/bluearchivewiki/c/ca/Chise_99.png"
   },
-  "Chise (Swimsuit) diorama": {
+  "Chise (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/4/4d/Chise_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/d/d6/Chise_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/3/3b/Chise_%28Swimsuit%29_diorama_02.png",
@@ -381,7 +381,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/d/dd/Eimi_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/7/78/Eimi_99.png"
   },
-  "Eimi (Swimsuit) diorama": {
+  "Eimi (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/f/fc/Eimi_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/d/d1/Eimi_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/2/21/Eimi_%28Swimsuit%29_diorama_02.png",
@@ -419,7 +419,7 @@
     "08": "https://static.miraheze.org/bluearchivewiki/7/74/Fuuka_08.png",
     "99": "https://static.miraheze.org/bluearchivewiki/1/1d/Fuuka_99.png"
   },
-  "Fuuka (New Year) diorama": {
+  "Fuuka (New Year)": {
     "00": "https://static.miraheze.org/bluearchivewiki/0/03/Fuuka_%28New_Year%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/0/07/Fuuka_%28New_Year%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/3/3a/Fuuka_%28New_Year%29_diorama_02.png",
@@ -451,7 +451,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/3/34/Hanae_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/6/69/Hanae_99.png"
   },
-  "Hanae (Christmas) diorama": {
+  "Hanae (Christmas)": {
     "00": "https://static.miraheze.org/bluearchivewiki/2/2e/Hanae_%28Christmas%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/5/5d/Hanae_%28Christmas%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/7/78/Hanae_%28Christmas%29_diorama_02.png",
@@ -558,7 +558,7 @@
     "08": "https://static.miraheze.org/bluearchivewiki/2/2d/Haruna_08.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/eb/Haruna_99.png"
   },
-  "Haruna (New Year) diorama": {
+  "Haruna (New Year)": {
     "00": "https://static.miraheze.org/bluearchivewiki/7/76/Haruna_%28New_Year%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/9/91/Haruna_%28New_Year%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/b/be/Haruna_%28New_Year%29_diorama_02.png",
@@ -575,7 +575,7 @@
     "13": "https://static.miraheze.org/bluearchivewiki/6/69/Haruna_%28New_Year%29_diorama_13.png",
     "99": "https://static.miraheze.org/bluearchivewiki/f/f4/Haruna_%28New_Year%29_diorama_99.png"
   },
-  "Haruna (Sportswear) diorama": {
+  "Haruna (Sportswear)": {
     "00": "https://static.miraheze.org/bluearchivewiki/0/0a/Haruna_%28Sportswear%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/8/87/Haruna_%28Sportswear%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/f/f9/Haruna_%28Sportswear%29_diorama_02.png",
@@ -654,7 +654,7 @@
     "13": "https://static.miraheze.org/bluearchivewiki/2/2b/Hibiki_13.png",
     "99": "https://static.miraheze.org/bluearchivewiki/3/38/Hibiki_99.png"
   },
-  "Hibiki (Cheerleader) diorama": {
+  "Hibiki (Cheerleader)": {
     "00": "https://static.miraheze.org/bluearchivewiki/3/3f/Hibiki_%28Cheerleader%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/b/b0/Hibiki_%28Cheerleader%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/b/bd/Hibiki_%28Cheerleader%29_diorama_02.png",
@@ -695,7 +695,7 @@
     "12": "https://static.miraheze.org/bluearchivewiki/e/ea/Hifumi_12.png",
     "99": "https://static.miraheze.org/bluearchivewiki/d/d5/Hifumi_99.png"
   },
-  "Hifumi (Swimsuit) diorama": {
+  "Hifumi (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/9/93/Hifumi_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/8/8b/Hifumi_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/8/81/Hifumi_%28Swimsuit%29_diorama_02.png",
@@ -771,7 +771,7 @@
     "18": "https://static.miraheze.org/bluearchivewiki/1/11/Hina_%28Dress%29_18.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/e1/Hina_%28Dress%29_99.png"
   },
-  "Hina (Swimsuit) diorama": {
+  "Hina (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/b/bc/Hina_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/b/b1/Hina_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/1/11/Hina_%28Swimsuit%29_diorama_02.png",
@@ -847,7 +847,7 @@
     "17": "https://static.miraheze.org/bluearchivewiki/2/23/Hoshino_17.png",
     "99": "https://static.miraheze.org/bluearchivewiki/6/6c/Hoshino_99.png"
   },
-  "Hoshino (Swimsuit) diorama": {
+  "Hoshino (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/1/10/Hoshino_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/0/00/Hoshino_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/2/21/Hoshino_%28Swimsuit%29_diorama_02.png",
@@ -929,7 +929,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/b/b5/Iori_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/e1/Iori_99.png"
   },
-  "Iori (Swimsuit) diorama": {
+  "Iori (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/3/3f/Iori_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/c/c5/Iori_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/e/e0/Iori_%28Swimsuit%29_diorama_02.png",
@@ -957,7 +957,7 @@
     "09": "https://static.miraheze.org/bluearchivewiki/c/c4/Izumi_09.png",
     "99": "https://static.miraheze.org/bluearchivewiki/d/dc/Izumi_99.png"
   },
-  "Izumi (Swimsuit) diorama": {
+  "Izumi (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/f/f8/Izumi_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/8/84/Izumi_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/4/45/Izumi_%28Swimsuit%29_diorama_02.png",
@@ -982,7 +982,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/1/1f/Izuna_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/e1/Izuna_99.png"
   },
-  "Izuna (Swimsuit) diorama": {
+  "Izuna (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/4/4a/Izuna_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/e/e9/Izuna_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/7/7d/Izuna_%28Swimsuit%29_diorama_02.png",
@@ -1320,7 +1320,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/3/35/Kotori_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/f/f7/Kotori_99.png"
   },
-  "Kotori (Cheerleader) diorama": {
+  "Kotori (Cheerleader)": {
     "00": "https://static.miraheze.org/bluearchivewiki/2/25/Kotori_%28Cheerleader%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/e/e9/Kotori_%28Cheerleader%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/2/22/Kotori_%28Cheerleader%29_diorama_02.png",
@@ -1402,7 +1402,7 @@
     "09": "https://static.miraheze.org/bluearchivewiki/5/5a/Mari_09.png",
     "99": "https://static.miraheze.org/bluearchivewiki/5/50/Mari_99.png"
   },
-  "Mari (Sportswear) diorama": {
+  "Mari (Sportswear)": {
     "00": "https://static.miraheze.org/bluearchivewiki/c/c8/Mari_%28Sportswear%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/d/de/Mari_%28Sportswear%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/3/30/Mari_%28Sportswear%29_diorama_02.png",
@@ -1440,7 +1440,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/4/40/Mashiro_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/8/8e/Mashiro_99.png"
   },
-  "Mashiro (Swimsuit) diorama": {
+  "Mashiro (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/4/43/Mashiro_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/6/6c/Mashiro_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/9/99/Mashiro_%28Swimsuit%29_diorama_02.png",
@@ -1555,7 +1555,7 @@
     "10": "https://static.miraheze.org/bluearchivewiki/d/d9/Mimori_10.png",
     "99": "https://static.miraheze.org/bluearchivewiki/3/35/Mimori_99.png"
   },
-  "Mimori (Swimsuit) diorama": {
+  "Mimori (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/f/fb/Mimori_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/3/34/Mimori_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/2/29/Mimori_%28Swimsuit%29_diorama_02.png",
@@ -1689,7 +1689,7 @@
     "11": "https://static.miraheze.org/bluearchivewiki/1/1c/Miyako_%28Swimsuit%29_11.png",
     "99": "https://static.miraheze.org/bluearchivewiki/d/d1/Miyako_%28Swimsuit%29_99.png"
   },
-  "Miyu diorama": {
+  "Miyu": {
     "diorama00": "https://static.miraheze.org/bluearchivewiki/d/d7/Miyu_diorama_00.png",
     "diorama01": "https://static.miraheze.org/bluearchivewiki/9/97/Miyu_diorama_01.png",
     "diorama02": "https://static.miraheze.org/bluearchivewiki/3/3c/Miyu_diorama_02.png",
@@ -1874,7 +1874,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/5/5f/Nodoka_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/1/1d/Nodoka_99.png"
   },
-  "Nodoka (Hot Spring) diorama": {
+  "Nodoka (Hot Spring)": {
     "00": "https://static.miraheze.org/bluearchivewiki/8/80/Nodoka_%28Hot_Spring%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/2/22/Nodoka_%28Hot_Spring%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/2/25/Nodoka_%28Hot_Spring%29_diorama_02.png",
@@ -1937,7 +1937,7 @@
     "19": "https://static.miraheze.org/bluearchivewiki/a/aa/Nonomi_19.png",
     "99": "https://static.miraheze.org/bluearchivewiki/7/75/Nonomi_99.png"
   },
-  "Nonomi (Swimsuit) diorama": {
+  "Nonomi (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/4/4a/Nonomi_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/b/b9/Nonomi_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/6/64/Nonomi_%28Swimsuit%29_diorama_02.png",
@@ -2202,7 +2202,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/4/4a/Serina_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/d/d2/Serina_99.png"
   },
-  "Serina (Christmas) diorama": {
+  "Serina (Christmas)": {
     "00": "https://static.miraheze.org/bluearchivewiki/1/15/Serina_%28Christmas%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/f/f4/Serina_%28Christmas%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/f/f4/Serina_%28Christmas%29_diorama_02.png",
@@ -2231,7 +2231,7 @@
     "11": "https://static.miraheze.org/bluearchivewiki/2/2e/Shigure_11.png",
     "99": "https://static.miraheze.org/bluearchivewiki/b/b7/Shigure_99.png"
   },
-  "Shigure (Hot Spring) diorama": {
+  "Shigure (Hot Spring)": {
     "00": "https://static.miraheze.org/bluearchivewiki/2/26/Shigure_%28Hot_Spring%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/1/11/Shigure_%28Hot_Spring%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/a/af/Shigure_%28Hot_Spring%29_diorama_02.png",
@@ -2311,7 +2311,7 @@
     "06": "https://static.miraheze.org/bluearchivewiki/9/96/Shizuko_06.png",
     "99": "https://static.miraheze.org/bluearchivewiki/1/1c/Shizuko_99.png"
   },
-  "Shizuko (Swimsuit) diorama": {
+  "Shizuko (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/1/18/Shizuko_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/d/d3/Shizuko_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/1/1f/Shizuko_%28Swimsuit%29_diorama_02.png",
@@ -2357,7 +2357,7 @@
     "14": "https://static.miraheze.org/bluearchivewiki/9/94/Shun_14.png",
     "99": "https://static.miraheze.org/bluearchivewiki/e/ef/Shun_99.png"
   },
-  "Shun (Kid) diorama": {
+  "Shun (Kid)": {
     "00": "https://static.miraheze.org/bluearchivewiki/9/91/Shun_%28Kid%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/c/c2/Shun_%28Kid%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/b/b3/Shun_%28Kid%29_diorama_02.png",
@@ -2505,7 +2505,7 @@
     "14": "https://static.miraheze.org/bluearchivewiki/2/29/Tsurugi_14.png",
     "99": "https://static.miraheze.org/bluearchivewiki/9/98/Tsurugi_99.png"
   },
-  "Tsurugi (Swimsuit) diorama": {
+  "Tsurugi (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/0/00/Tsurugi_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/8/8f/Tsurugi_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/9/9e/Tsurugi_%28Swimsuit%29_diorama_02.png",
@@ -2546,7 +2546,7 @@
     "23": "https://static.miraheze.org/bluearchivewiki/1/10/Ui_23.png",
     "99": "https://static.miraheze.org/bluearchivewiki/d/d9/Ui_99.png"
   },
-  "Ui (Swimsuit) diorama": {
+  "Ui (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/d/d2/Ui_%28Swimsuit%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/5/59/Ui_%28Swimsuit%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/4/43/Ui_%28Swimsuit%29_diorama_02.png",
@@ -2611,7 +2611,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/d/da/Utaha_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/3/35/Utaha_99.png"
   },
-  "Utaha (Cheerleader) diorama": {
+  "Utaha (Cheerleader)": {
     "00": "https://static.miraheze.org/bluearchivewiki/3/36/Utaha_%28Cheerleader%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/2/2f/Utaha_%28Cheerleader%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/1/13/Utaha_%28Cheerleader%29_diorama_02.png",
@@ -2645,7 +2645,7 @@
     "S211": "https://static.miraheze.org/bluearchivewiki/0/09/Wakamo_S2_11.png",
     "S299": "https://static.miraheze.org/bluearchivewiki/8/8f/Wakamo_S2_99.png"
   },
-  "Wakamo (Swimsuit) diorama": {
+  "Wakamo (Swimsuit)": {
     "00": "https://static.miraheze.org/bluearchivewiki/1/16/Wakamo_%28Swimsuit%29_diorama_00.png",
     "S201": "https://static.miraheze.org/bluearchivewiki/5/51/Wakamo_%28Swimsuit%29_diorama_S2_01.png",
     "S202": "https://static.miraheze.org/bluearchivewiki/e/ee/Wakamo_%28Swimsuit%29_diorama_S2_02.png",
@@ -2707,7 +2707,7 @@
     "07": "https://static.miraheze.org/bluearchivewiki/4/42/Yuuka_07.png",
     "99": "https://static.miraheze.org/bluearchivewiki/1/14/Yuuka_99.png"
   },
-  "Yuuka (Sportswear) diorama": {
+  "Yuuka (Sportswear)": {
     "00": "https://static.miraheze.org/bluearchivewiki/d/da/Yuuka_%28Sportswear%29_diorama_00.png",
     "01": "https://static.miraheze.org/bluearchivewiki/f/f3/Yuuka_%28Sportswear%29_diorama_01.png",
     "02": "https://static.miraheze.org/bluearchivewiki/4/4f/Yuuka_%28Sportswear%29_diorama_02.png",
