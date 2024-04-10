@@ -1,11 +1,18 @@
 # このコードはフォークです
-動かなかった[reykim7854さんのコード](https://github.com/reykim7854/blue-archive-image-url-scrapper)を動くように修正、日本語化、立ち絵表情差分などを追加したコードです
+動かなかった[reykim7854さんのコード](https://github.com/reykim7854/blue-archive-image-url-scrapper)を動くように修正、日本語化、立ち絵表情差分などを追加したコードです  
+2024/04/10 サウンドエフェクトを取得できる`audio.py`を追加しました。
 # タスクリスト
 - [x] 別衣装(実装生徒)の立ち絵表情差分
 - [ ] 別衣装(ストーリーのみ)の立ち絵
 - [ ] イロハ
+- [x] サウンドエフェクト
+- [ ] BGM
+- [ ] キャラボイス
 # すぐ使いたいなら
-[student-images.json](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/09更新)
+- 立ち絵  
+[student-images.json](https://github.com/jpbtk/blue-archive-url-scrapper/blob/main/student-images.json)をダウンロードして使ってね(2024/04/09更新)
+- サウンドエフェクト
+[sound-effects.json](https://github.com/jpbtk/blue-archive-url-scrapper/blob/main/sound-effects.json)をダウンロードして使ってね(2024/04/10更新)
 # blue-archive-image-url-scrapper
 このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵のURLを取得します。
 ## 要件
@@ -13,7 +20,7 @@
 - beautifulsoup4
 - requests
 ## 使い方
-[requirements.txt](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/requirements.txt)、[scrapper.py](https://github.com/jpbtk/blue-archive-image-url-scrapper/blob/main/scrapper.py)をダウンロードしてください
+[requirements.txt](https://github.com/jpbtk/blue-archive-url-scrapper/blob/main/requirements.txt)、[scrapper.py](https://github.com/jpbtk/blue-archive-url-scrapper/blob/main/scrapper.py)をダウンロードしてください
 - `requirements.txt`から必要なライブラリをインストールしてください
   ```
   pip install -r requirements.txt
