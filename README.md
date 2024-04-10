@@ -11,10 +11,10 @@
 # すぐ使いたいなら
 - 立ち絵  
 [student-images.json](https://github.com/jpbtk/blue-archive-url-scrapper-jp/blob/main/student-images.json)をダウンロードして使ってね(2024/04/09更新)
-- サウンドエフェクト
+- サウンドエフェクト  
 [sound-effects.json](https://github.com/jpbtk/blue-archive-url-scrapper-jp/blob/main/sound-effects.json)をダウンロードして使ってね(2024/04/10更新)
 # blue-archive-image-url-scrapper
-このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵のURLを取得します。
+このPythonスクリプトは、 [Blue Archive Wiki](https://bluearchive.wiki/wiki) から、 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) を使用して、キャラクターの立ち絵、サウンドのURLを取得します。
 ## 要件
 - python 3.6+
 - beautifulsoup4
